@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder",
+    "up": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder",
+    "north": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder",
+    "east": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder",
+    "south": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder",
+    "west": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder",
+    "particle": "cowpewter_world_of_color:blocks/double_dark_green_concrete_powder"
+  }
+}
