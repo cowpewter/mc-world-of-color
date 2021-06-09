@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cowpewter_world_of_color:items/pastel_light_gray_dye"
+  }
+}

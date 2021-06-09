@@ -36,76 +36,78 @@ import net.mcreator.cowpewterworldofcolor.block.PastelBlueConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.PastelBlueConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.PastelBlackConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.PastelBlackConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelYellowConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelYellowConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelRedConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelRedConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelPurpleConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelPurpleConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelPinkConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelPinkConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelOrangeConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelOrangeConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelMagentaConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelMagentaConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelLimeConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelLimeConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelLightGrayConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelLightGrayConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelLightBlueConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelLightBlueConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelGreenConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelGreenConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelGrayConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelGrayConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelCyanConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelCyanConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelBrownConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelBrownConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelBlueConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelBlueConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelBlackConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoublePastelBlackConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkYellowConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkYellowConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkWhiteConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkWhiteConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkRedConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkRedConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkPurpleConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkPurpleConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkPinkConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkPinkConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkOrangeConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkOrangeConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkMagentaConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkMagentaConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkLimeConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkLimeConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkLightGrayConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkLightGrayConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkLightBlueConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkLightBlueConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkGreenConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkGreenConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkGrayConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkGrayConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkCyanConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkCyanConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkBrownConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkBrownConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkBlueConcretePowderBlock;
-import net.mcreator.cowpewterworldofcolor.block.DoubleDarkBlueConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestYellowConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestYellowConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestRedConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestRedConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestPurpleConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestPurpleConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestPinkConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestPinkConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestOrangeConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestOrangeConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestMagentaConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestMagentaConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestLimeConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestLimeConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestLightGrayConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestLightGrayConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestLightBlueConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestLightBlueConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestGreenConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestGreenConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestGrayConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestGrayConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestCyanConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestCyanConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestBrownConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestBrownConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestBlueConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestBlueConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestBlackConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.LightestBlackConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestYellowConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestYellowConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestWhiteConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestWhiteConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestRedConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestRedConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestPurpleConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestPurpleConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestPinkConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestPinkConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestOrangeConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestOrangeConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestMagentaConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestMagentaConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestLimeConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestLimeConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestLightGrayConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestLightGrayConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestLightBlueConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestLightBlueConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestGreenConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestGreenConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestGrayConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestGrayConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestCyanConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestCyanConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestBrownConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestBrownConcreteBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestBlueConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkestBlueConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkYellowConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkYellowConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkWhiteConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkWhiteConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkRedConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkRedConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkPurpleConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkPurpleConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkPinkConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkPinkConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkOrangeConcretePowderBlock;
+import net.mcreator.cowpewterworldofcolor.block.DarkOrangeConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkMagentaConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkMagentaConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkLimeConcretePowderBlock;
@@ -556,7 +558,7 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkOrangeConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkOrangeConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -604,7 +606,7 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkRedConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkRedConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -648,11 +650,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkBlueConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestBlueConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkBlueConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestBlueConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -664,11 +666,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkBrownConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestBrownConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkBrownConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestBrownConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -680,11 +682,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkCyanConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestCyanConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkCyanConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestCyanConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -696,11 +698,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkGrayConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestGrayConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkGrayConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestGrayConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -712,11 +714,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkGreenConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestGreenConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkGreenConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestGreenConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -728,11 +730,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkLightBlueConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestLightBlueConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkLightBlueConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestLightBlueConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -744,11 +746,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkLightGrayConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestLightGrayConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkLightGrayConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestLightGrayConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -760,11 +762,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkLimeConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestLimeConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkLimeConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestLimeConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -776,11 +778,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkMagentaConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestMagentaConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkMagentaConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestMagentaConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -792,11 +794,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkOrangeConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestOrangeConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkOrangeConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestOrangeConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -808,11 +810,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkPinkConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestPinkConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkPinkConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestPinkConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -824,11 +826,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkPurpleConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestPurpleConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkPurpleConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestPurpleConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -840,11 +842,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkRedConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestRedConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkRedConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestRedConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -856,11 +858,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkWhiteConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestWhiteConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkWhiteConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestWhiteConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -872,11 +874,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoubleDarkYellowConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DarkestYellowConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoubleDarkYellowConcreteBlock.block.getDefaultState();
+					BlockState _bs = DarkestYellowConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -888,11 +890,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelBlackConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestBlackConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelBlackConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestBlackConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -904,11 +906,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelBlueConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestBlueConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelBlueConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestBlueConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -920,11 +922,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelBrownConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestBrownConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelBrownConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestBrownConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -936,11 +938,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelCyanConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestCyanConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelCyanConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestCyanConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -952,11 +954,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelGrayConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestGrayConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelGrayConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestGrayConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -968,11 +970,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelGreenConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestGreenConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelGreenConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestGreenConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -984,11 +986,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelLightBlueConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestLightBlueConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelLightBlueConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestLightBlueConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1000,11 +1002,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelLightGrayConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestLightGrayConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelLightGrayConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestLightGrayConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1016,11 +1018,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelLimeConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestLimeConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelLimeConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestLimeConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1032,11 +1034,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelMagentaConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestMagentaConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelMagentaConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestMagentaConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1048,11 +1050,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelOrangeConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestOrangeConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelOrangeConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestOrangeConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1064,11 +1066,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelPinkConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestPinkConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelPinkConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestPinkConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1080,11 +1082,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelPurpleConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestPurpleConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelPurpleConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestPurpleConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1096,11 +1098,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelRedConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestRedConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelRedConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestRedConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());
@@ -1112,11 +1114,11 @@ public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModE
 					}
 					world.setBlockState(_bp, _bs, 3);
 				}
-			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == DoublePastelYellowConcretePowderBlock.block
+			} else if (((world.getBlockState(new BlockPos((int) x, (int) y, (int) z))).getBlock() == LightestYellowConcretePowderBlock.block
 					.getDefaultState().getBlock())) {
 				{
 					BlockPos _bp = new BlockPos((int) x, (int) y, (int) z);
-					BlockState _bs = DoublePastelYellowConcreteBlock.block.getDefaultState();
+					BlockState _bs = LightestYellowConcreteBlock.block.getDefaultState();
 					BlockState _bso = world.getBlockState(_bp);
 					for (Map.Entry<Property<?>, Comparable<?>> entry : _bso.getValues().entrySet()) {
 						Property _property = _bs.getBlock().getStateContainer().getProperty(entry.getKey().getName());

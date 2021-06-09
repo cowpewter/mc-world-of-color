@@ -40,7 +40,7 @@ public class PastelBlueConcretePowderBlock extends CowpewterWorldOfColorModEleme
 	}
 	public static class CustomBlock extends FallingBlock {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.EARTH).sound(SoundType.GROUND).hardnessAndResistance(0.5f, 0.5f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.SAND).sound(SoundType.SAND).hardnessAndResistance(0.5f, 0.5f).setLightLevel(s -> 0));
 			setRegistryName("pastel_blue_concrete_powder");
 		}
 
