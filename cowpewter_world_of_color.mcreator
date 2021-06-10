@@ -1667,6 +1667,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pastel_yellow_dye"
+    },
+    {
+      "name": "ColorIntensifierFromRGB",
+      "type": "recipe",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_intensifier_from_rgb"
+    },
+    {
+      "name": "ColorIntensifierFromCYM",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_intensifier_from_cym"
+    },
+    {
+      "name": "ColorFaderFromIntensifier",
+      "type": "recipe",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_fader_from_intensifier"
+    },
+    {
+      "name": "ColorFaderFromRGB",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_fader_from_rgb"
+    },
+    {
+      "name": "ColorFaderFromCYM",
+      "type": "recipe",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "color_fader_from_cym"
     }
   ],
   "variable_elements": [],
@@ -1674,10 +1719,10 @@
   "language_map": {
     "en_us": {
       "block.cowpewter_world_of_color.pastel_pink_concrete_powder": "Pastel Pink Concrete Powder",
-      "block.cowpewter_world_of_color.pastel_light_blue_concrete": "Pastel Light Blue Concrete",
       "item.cowpewter_world_of_color.pastel_yellow_dye": "Pastel Yellow Dye",
-      "block.cowpewter_world_of_color.darkest_brown_concrete": "Darkest Brown Concrete",
+      "block.cowpewter_world_of_color.pastel_light_blue_concrete": "Pastel Light Blue Concrete",
       "item.cowpewter_world_of_color.lightest_lime_dye": "Lightest Lime Dye",
+      "block.cowpewter_world_of_color.darkest_brown_concrete": "Darkest Brown Concrete",
       "item.cowpewter_world_of_color.pastel_brown_dye": "Pastel Brown Dye",
       "block.cowpewter_world_of_color.dark_purple_concrete": "Dark Purple Concrete",
       "block.cowpewter_world_of_color.darkest_pink_concrete": "Darkest Pink Concrete",
@@ -1859,12 +1904,7 @@
   },
   "foldersRoot": {
     "name": "~",
-    "children": [
-      {
-        "name": "Blocks",
-        "children": []
-      }
-    ]
+    "children": []
   },
   "workspaceSettings": {
     "modid": "cowpewter_world_of_color",
