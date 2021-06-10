@@ -17,18 +17,18 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.cowpewterworldofcolor.procedures.ConcretePowderToConcreteProcedure;
-import net.mcreator.cowpewterworldofcolor.CowpewterWorldOfColorModElements;
+import net.mcreator.cowpewterworldofcolor.CowpewterWocModElements;
 
 import java.util.Map;
 import java.util.List;
 import java.util.HashMap;
 import java.util.Collections;
 
-@CowpewterWorldOfColorModElements.ModElement.Tag
-public class DarkMagentaConcretePowderBlock extends CowpewterWorldOfColorModElements.ModElement {
-	@ObjectHolder("cowpewter_world_of_color:dark_magenta_concrete_powder")
+@CowpewterWocModElements.ModElement.Tag
+public class DarkMagentaConcretePowderBlock extends CowpewterWocModElements.ModElement {
+	@ObjectHolder("cowpewter_woc:dark_magenta_concrete_powder")
 	public static final Block block = null;
-	public DarkMagentaConcretePowderBlock(CowpewterWorldOfColorModElements instance) {
+	public DarkMagentaConcretePowderBlock(CowpewterWocModElements instance) {
 		super(instance, 19);
 	}
 

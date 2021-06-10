@@ -1,16 +1,19 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="MIT License"
 
 [[mods]]
-modId="cowpewter_world_of_color"
+modId="cowpewter_woc"
 version="1.0.0"
 displayName="World of Color"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="katy, MCreator"
+credits="Made with love thanks to mod maker MCreator - https://mcreator.net/about"
+displayURL="https://cowpewter.com"
+authors="cowpewter, MCreator"
+description='''
+Adds color variations to lots of blocks, via a new set of dyes.
+'''
 
-[[dependencies.cowpewter_world_of_color]]
+[[dependencies.cowpewter_woc]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.16.5]"

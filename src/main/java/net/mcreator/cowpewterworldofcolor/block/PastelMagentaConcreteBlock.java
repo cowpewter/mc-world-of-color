@@ -14,16 +14,16 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.cowpewterworldofcolor.CowpewterWorldOfColorModElements;
+import net.mcreator.cowpewterworldofcolor.CowpewterWocModElements;
 
 import java.util.List;
 import java.util.Collections;
 
-@CowpewterWorldOfColorModElements.ModElement.Tag
-public class PastelMagentaConcreteBlock extends CowpewterWorldOfColorModElements.ModElement {
-	@ObjectHolder("cowpewter_world_of_color:pastel_magenta_concrete")
+@CowpewterWocModElements.ModElement.Tag
+public class PastelMagentaConcreteBlock extends CowpewterWocModElements.ModElement {
+	@ObjectHolder("cowpewter_woc:pastel_magenta_concrete")
 	public static final Block block = null;
-	public PastelMagentaConcreteBlock(CowpewterWorldOfColorModElements instance) {
+	public PastelMagentaConcreteBlock(CowpewterWocModElements instance) {
 		super(instance, 110);
 	}
 

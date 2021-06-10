@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cowpewter_woc:blocks/dark_brown_concrete",
+    "up": "cowpewter_woc:blocks/dark_brown_concrete",
+    "north": "cowpewter_woc:blocks/dark_brown_concrete",
+    "east": "cowpewter_woc:blocks/dark_brown_concrete",
+    "south": "cowpewter_woc:blocks/dark_brown_concrete",
+    "west": "cowpewter_woc:blocks/dark_brown_concrete",
+    "particle": "cowpewter_woc:blocks/dark_brown_concrete"
+  }
+}

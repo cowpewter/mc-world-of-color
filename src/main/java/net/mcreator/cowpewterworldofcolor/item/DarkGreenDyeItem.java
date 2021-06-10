@@ -12,15 +12,15 @@ import net.minecraft.item.Item;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
-import net.mcreator.cowpewterworldofcolor.CowpewterWorldOfColorModElements;
+import net.mcreator.cowpewterworldofcolor.CowpewterWocModElements;
 
 import java.util.List;
 
-@CowpewterWorldOfColorModElements.ModElement.Tag
-public class DarkGreenDyeItem extends CowpewterWorldOfColorModElements.ModElement {
-	@ObjectHolder("cowpewter_world_of_color:dark_green_dye")
+@CowpewterWocModElements.ModElement.Tag
+public class DarkGreenDyeItem extends CowpewterWocModElements.ModElement {
+	@ObjectHolder("cowpewter_woc:dark_green_dye")
 	public static final Item block = null;
-	public DarkGreenDyeItem(CowpewterWorldOfColorModElements instance) {
+	public DarkGreenDyeItem(CowpewterWocModElements instance) {
 		super(instance, 127);
 	}
 

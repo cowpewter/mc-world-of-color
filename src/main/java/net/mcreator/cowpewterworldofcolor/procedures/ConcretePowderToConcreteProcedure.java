@@ -126,36 +126,36 @@ import net.mcreator.cowpewterworldofcolor.block.DarkBrownConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkBrownConcreteBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkBlueConcretePowderBlock;
 import net.mcreator.cowpewterworldofcolor.block.DarkBlueConcreteBlock;
-import net.mcreator.cowpewterworldofcolor.CowpewterWorldOfColorModElements;
-import net.mcreator.cowpewterworldofcolor.CowpewterWorldOfColorMod;
+import net.mcreator.cowpewterworldofcolor.CowpewterWocModElements;
+import net.mcreator.cowpewterworldofcolor.CowpewterWocMod;
 
 import java.util.Map;
 
-@CowpewterWorldOfColorModElements.ModElement.Tag
-public class ConcretePowderToConcreteProcedure extends CowpewterWorldOfColorModElements.ModElement {
-	public ConcretePowderToConcreteProcedure(CowpewterWorldOfColorModElements instance) {
+@CowpewterWocModElements.ModElement.Tag
+public class ConcretePowderToConcreteProcedure extends CowpewterWocModElements.ModElement {
+	public ConcretePowderToConcreteProcedure(CowpewterWocModElements instance) {
 		super(instance, 1);
 	}
 
 	public static void executeProcedure(Map<String, Object> dependencies) {
 		if (dependencies.get("x") == null) {
 			if (!dependencies.containsKey("x"))
-				CowpewterWorldOfColorMod.LOGGER.warn("Failed to load dependency x for procedure ConcretePowderToConcrete!");
+				CowpewterWocMod.LOGGER.warn("Failed to load dependency x for procedure ConcretePowderToConcrete!");
 			return;
 		}
 		if (dependencies.get("y") == null) {
 			if (!dependencies.containsKey("y"))
-				CowpewterWorldOfColorMod.LOGGER.warn("Failed to load dependency y for procedure ConcretePowderToConcrete!");
+				CowpewterWocMod.LOGGER.warn("Failed to load dependency y for procedure ConcretePowderToConcrete!");
 			return;
 		}
 		if (dependencies.get("z") == null) {
 			if (!dependencies.containsKey("z"))
-				CowpewterWorldOfColorMod.LOGGER.warn("Failed to load dependency z for procedure ConcretePowderToConcrete!");
+				CowpewterWocMod.LOGGER.warn("Failed to load dependency z for procedure ConcretePowderToConcrete!");
 			return;
 		}
 		if (dependencies.get("world") == null) {
 			if (!dependencies.containsKey("world"))
-				CowpewterWorldOfColorMod.LOGGER.warn("Failed to load dependency world for procedure ConcretePowderToConcrete!");
+				CowpewterWocMod.LOGGER.warn("Failed to load dependency world for procedure ConcretePowderToConcrete!");
 			return;
 		}
 		double x = dependencies.get("x") instanceof Integer ? (int) dependencies.get("x") : (double) dependencies.get("x");
