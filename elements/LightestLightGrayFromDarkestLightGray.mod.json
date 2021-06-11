@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 5,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ColorFader"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ColorFader"
+      },
+      {
+        "value": "CUSTOM:DarkestLightGrayDye"
+      },
+      {
+        "value": "CUSTOM:ColorFader"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ColorFader"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightestLightGrayDye"
+    },
+    "name": "lightest_light_gray_from_darkest_light_gray",
+    "namespace": "mod"
+  }
+}

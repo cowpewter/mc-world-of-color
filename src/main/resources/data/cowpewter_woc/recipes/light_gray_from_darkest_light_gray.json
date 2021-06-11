@@ -1,0 +1,23 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "cowpewter_woc:color_fader"
+    },
+    "2": {
+      "item": "cowpewter_woc:color_fader"
+    },
+    "4": {
+      "item": "cowpewter_woc:darkest_light_gray_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:light_gray_dye",
+    "count": 1
+  }
+}

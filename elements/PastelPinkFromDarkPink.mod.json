@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ColorFader"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ColorFader"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkPinkDye"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PastelPinkDye"
+    },
+    "name": "pastel_pink_from_dark_pink",
+    "namespace": "mod"
+  }
+}

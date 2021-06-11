@@ -1,0 +1,23 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "cowpewter_woc:color_intensifier"
+    },
+    "2": {
+      "item": "cowpewter_woc:color_intensifier"
+    },
+    "4": {
+      "item": "cowpewter_woc:lightest_red_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 1
+  }
+}

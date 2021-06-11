@@ -1,0 +1,25 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:darkest_light_blue_dye"
+    },
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:color_fader"
+    }
+  ],
+  "result": {
+    "item": "cowpewter_woc:lightest_light_blue_dye",
+    "count": 5
+  }
+}

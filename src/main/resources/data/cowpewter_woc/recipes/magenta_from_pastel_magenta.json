@@ -1,0 +1,16 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cowpewter_woc:color_intensifier"
+    },
+    {
+      "item": "cowpewter_woc:pastel_magenta_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 2
+  }
+}

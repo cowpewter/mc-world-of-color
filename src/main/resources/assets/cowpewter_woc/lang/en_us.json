@@ -1,9 +1,9 @@
 {
-  "item.cowpewter_world_of_color.pastel_yellow_dye": "Pastel Yellow Dye",
   "block.cowpewter_world_of_color.pastel_light_blue_concrete": "Pastel Light Blue Concrete",
-  "block.cowpewter_world_of_color.dark_purple_concrete": "Dark Purple Concrete",
-  "block.cowpewter_world_of_color.darkest_pink_concrete": "Darkest Pink Concrete",
+  "item.cowpewter_world_of_color.pastel_yellow_dye": "Pastel Yellow Dye",
   "item.cowpewter_world_of_color.lightest_magenta_dye": "Lightest Magenta Dye",
+  "block.cowpewter_world_of_color.darkest_pink_concrete": "Darkest Pink Concrete",
+  "block.cowpewter_world_of_color.dark_purple_concrete": "Dark Purple Concrete",
   "block.cowpewter_world_of_color.pastel_green_concrete_powder": "Pastel Green Concrete Powder",
   "block.cowpewter_world_of_color.dark_magenta_concrete": "Dark Magenta Concrete",
   "item.cowpewter_woc.darkest_pink_dye": "Darkest Pink Dye",

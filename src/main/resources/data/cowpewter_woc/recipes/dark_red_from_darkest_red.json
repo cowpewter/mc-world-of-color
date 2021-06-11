@@ -1,0 +1,16 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:darkest_red_dye"
+    }
+  ],
+  "result": {
+    "item": "cowpewter_woc:dark_red_dye",
+    "count": 2
+  }
+}

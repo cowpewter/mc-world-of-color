@@ -1,0 +1,25 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:darkest_lime_dye"
+    },
+    {
+      "item": "cowpewter_woc:color_fader"
+    },
+    {
+      "item": "cowpewter_woc:color_fader"
+    }
+  ],
+  "result": {
+    "item": "cowpewter_woc:lightest_lime_dye",
+    "count": 5
+  }
+}

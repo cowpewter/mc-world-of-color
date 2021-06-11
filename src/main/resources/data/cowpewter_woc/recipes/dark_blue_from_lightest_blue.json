@@ -1,0 +1,22 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cowpewter_woc:color_intensifier"
+    },
+    {
+      "item": "cowpewter_woc:color_intensifier"
+    },
+    {
+      "item": "cowpewter_woc:color_intensifier"
+    },
+    {
+      "item": "cowpewter_woc:lightest_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "cowpewter_woc:dark_blue_dye",
+    "count": 4
+  }
+}

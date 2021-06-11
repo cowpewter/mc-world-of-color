@@ -2243,17 +2243,2636 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pastel_yellow_concrete_from_dye"
+    },
+    {
+      "name": "DarkBlueFromBlue",
+      "type": "recipe",
+      "sortid": 311,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_from_blue"
+    },
+    {
+      "name": "DarkBlueFromDarkestBlue",
+      "type": "recipe",
+      "sortid": 312,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_from_darkest_blue"
+    },
+    {
+      "name": "DarkBlueFromPastelBlue",
+      "type": "recipe",
+      "sortid": 313,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_from_pastel_blue"
+    },
+    {
+      "name": "DarkBlueFromLightestBlue",
+      "type": "recipe",
+      "sortid": 314,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_from_lightest_blue"
+    },
+    {
+      "name": "BlueFromDarkBlue",
+      "type": "recipe",
+      "sortid": 315,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_from_dark_blue"
+    },
+    {
+      "name": "DarkBrownFromBrown",
+      "type": "recipe",
+      "sortid": 316,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_from_brown"
+    },
+    {
+      "name": "DarkBrownFromDarkestBrown",
+      "type": "recipe",
+      "sortid": 317,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_from_darkest_brown"
+    },
+    {
+      "name": "DarkBrownFromLightestBrown",
+      "type": "recipe",
+      "sortid": 318,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_from_lightest_brown"
+    },
+    {
+      "name": "DarkBrownFromPastelBrown",
+      "type": "recipe",
+      "sortid": 319,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_from_pastel_brown"
+    },
+    {
+      "name": "BrownFromDarkBrown",
+      "type": "recipe",
+      "sortid": 320,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_from_dark_brown"
+    },
+    {
+      "name": "DarkCyanFromCyan",
+      "type": "recipe",
+      "sortid": 321,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_from_cyan"
+    },
+    {
+      "name": "DarkCyanFromDarkestCyan",
+      "type": "recipe",
+      "sortid": 322,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_from_darkest_cyan"
+    },
+    {
+      "name": "DarkCyanFromLightestCyan",
+      "type": "recipe",
+      "sortid": 323,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_from_lightest_cyan"
+    },
+    {
+      "name": "DarkCyanFromPastelCyan",
+      "type": "recipe",
+      "sortid": 324,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_from_pastel_cyan"
+    },
+    {
+      "name": "CyanFromDarkCyan",
+      "type": "recipe",
+      "sortid": 325,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_from_dark_cyan"
+    },
+    {
+      "name": "DarkGrayFromGray",
+      "type": "recipe",
+      "sortid": 326,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_gray_from_gray"
+    },
+    {
+      "name": "DarkGrayFromDarkestGray",
+      "type": "recipe",
+      "sortid": 327,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_gray_from_darkest_gray"
+    },
+    {
+      "name": "DarkGrayFromLightestGray",
+      "type": "recipe",
+      "sortid": 328,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_gray_from_lightest_gray"
+    },
+    {
+      "name": "DarkGrayFromPastelGray",
+      "type": "recipe",
+      "sortid": 329,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_gray_from_pastel_gray"
+    },
+    {
+      "name": "GrayFromDarkGray",
+      "type": "recipe",
+      "sortid": 330,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_from_dark_gray"
+    },
+    {
+      "name": "DarkGreenFromDarkestGreen",
+      "type": "recipe",
+      "sortid": 331,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_from_darkest_green"
+    },
+    {
+      "name": "DarkGreenFromGreen",
+      "type": "recipe",
+      "sortid": 332,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_from_green"
+    },
+    {
+      "name": "DarkGreenFromLightestGreen",
+      "type": "recipe",
+      "sortid": 333,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_from_lightest_green"
+    },
+    {
+      "name": "DarkGreenFromPastelGreen",
+      "type": "recipe",
+      "sortid": 334,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_from_pastel_green"
+    },
+    {
+      "name": "GreenFromDarkGreen",
+      "type": "recipe",
+      "sortid": 335,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_from_dark_green"
+    },
+    {
+      "name": "DarkLightBlueFromDarkestLightBlue",
+      "type": "recipe",
+      "sortid": 336,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_from_darkest_light_blue"
+    },
+    {
+      "name": "DarkLightBlueFromLightBlue",
+      "type": "recipe",
+      "sortid": 337,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_from_light_blue"
+    },
+    {
+      "name": "DarkLightBlueFromLightestLightBlue",
+      "type": "recipe",
+      "sortid": 338,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_from_lightest_light_blue"
+    },
+    {
+      "name": "DarkLightBlueFromPastelLightBlue",
+      "type": "recipe",
+      "sortid": 339,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_from_pastel_light_blue"
+    },
+    {
+      "name": "LightBlueFromDarkLightBlue",
+      "type": "recipe",
+      "sortid": 340,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_from_dark_light_blue"
+    },
+    {
+      "name": "DarkLightGrayFromDarkestLightGray",
+      "type": "recipe",
+      "sortid": 341,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_from_darkest_light_gray"
+    },
+    {
+      "name": "DarkLightGrayFromLightGray",
+      "type": "recipe",
+      "sortid": 342,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_from_light_gray"
+    },
+    {
+      "name": "DarkLightGrayFromLightestLightGray",
+      "type": "recipe",
+      "sortid": 343,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_from_lightest_light_gray"
+    },
+    {
+      "name": "DarkLightGrayFromPastelLightGray",
+      "type": "recipe",
+      "sortid": 344,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_from_pastel_light_gray"
+    },
+    {
+      "name": "LightGrayFromDarkLightGray",
+      "type": "recipe",
+      "sortid": 345,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_from_dark_light_gray"
+    },
+    {
+      "name": "DarkLimeFromDarkestLime",
+      "type": "recipe",
+      "sortid": 346,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_from_darkest_lime"
+    },
+    {
+      "name": "DarkLimeFromLime",
+      "type": "recipe",
+      "sortid": 347,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_from_lime"
+    },
+    {
+      "name": "DarkLimeFromLightestLime",
+      "type": "recipe",
+      "sortid": 348,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_from_lightest_lime"
+    },
+    {
+      "name": "DarkLimeFromPastelLime",
+      "type": "recipe",
+      "sortid": 349,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_from_pastel_lime"
+    },
+    {
+      "name": "LimeFromDarkLime",
+      "type": "recipe",
+      "sortid": 350,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_from_dark_lime"
+    },
+    {
+      "name": "DarkMagentaFromDarkestMagenta",
+      "type": "recipe",
+      "sortid": 351,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_from_darkest_magenta"
+    },
+    {
+      "name": "DarkMagentaFromLightestMagenta",
+      "type": "recipe",
+      "sortid": 352,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_from_lightest_magenta"
+    },
+    {
+      "name": "DarkMagentaFromMagenta",
+      "type": "recipe",
+      "sortid": 353,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_from_magenta"
+    },
+    {
+      "name": "DarkMagentaFromPastelMagenta",
+      "type": "recipe",
+      "sortid": 354,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_from_pastel_magenta"
+    },
+    {
+      "name": "MagentaFromDarkMagenta",
+      "type": "recipe",
+      "sortid": 355,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_from_dark_magenta"
+    },
+    {
+      "name": "DarkOrangeFromDarkestOrange",
+      "type": "recipe",
+      "sortid": 356,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_from_darkest_orange"
+    },
+    {
+      "name": "DarkOrangeFromLightestOrange",
+      "type": "recipe",
+      "sortid": 357,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_from_lightest_orange"
+    },
+    {
+      "name": "DarkOrangeFromOrange",
+      "type": "recipe",
+      "sortid": 358,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_from_orange"
+    },
+    {
+      "name": "DarkOrangeFromPastelOrange",
+      "type": "recipe",
+      "sortid": 359,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_from_pastel_orange"
+    },
+    {
+      "name": "OrangeFromDarkOrange",
+      "type": "recipe",
+      "sortid": 360,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_from_dark_orange"
+    },
+    {
+      "name": "DarkPinkFromDarkestPink",
+      "type": "recipe",
+      "sortid": 361,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_from_darkest_pink"
+    },
+    {
+      "name": "DarkPinkFromLightestPink",
+      "type": "recipe",
+      "sortid": 362,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_from_lightest_pink"
+    },
+    {
+      "name": "DarkPinkFromPink",
+      "type": "recipe",
+      "sortid": 363,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_from_pink"
+    },
+    {
+      "name": "DarkPinkFromPastelPink",
+      "type": "recipe",
+      "sortid": 364,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_from_pastel_pink"
+    },
+    {
+      "name": "PinkFromDarkPink",
+      "type": "recipe",
+      "sortid": 365,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_from_dark_pink"
+    },
+    {
+      "name": "DarkPurpleFromDarkestPurple",
+      "type": "recipe",
+      "sortid": 366,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_from_darkest_purple"
+    },
+    {
+      "name": "DarkPurpleFromLightestPurple",
+      "type": "recipe",
+      "sortid": 367,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_from_lightest_purple"
+    },
+    {
+      "name": "DarkPurpleFromPastelPurple",
+      "type": "recipe",
+      "sortid": 368,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_from_pastel_purple"
+    },
+    {
+      "name": "DarkPurpleFromPurple",
+      "type": "recipe",
+      "sortid": 369,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_from_purple"
+    },
+    {
+      "name": "PurpleFromDarkPurple",
+      "type": "recipe",
+      "sortid": 370,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_from_dark_purple"
+    },
+    {
+      "name": "DarkRedFromDarkestRed",
+      "type": "recipe",
+      "sortid": 371,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_from_darkest_red"
+    },
+    {
+      "name": "DarkRedFromLightestRed",
+      "type": "recipe",
+      "sortid": 372,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_from_lightest_red"
+    },
+    {
+      "name": "DarkRedFromPastelRed",
+      "type": "recipe",
+      "sortid": 373,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_from_pastel_red"
+    },
+    {
+      "name": "DarkRedFromRed",
+      "type": "recipe",
+      "sortid": 374,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_from_red"
+    },
+    {
+      "name": "RedFromDarkRed",
+      "type": "recipe",
+      "sortid": 375,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_from_dark_red"
+    },
+    {
+      "name": "DarkWhiteFromDarkestWhite",
+      "type": "recipe",
+      "sortid": 376,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_white_from_darkest_white"
+    },
+    {
+      "name": "DarkWhiteFromWhite",
+      "type": "recipe",
+      "sortid": 377,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_white_from_white"
+    },
+    {
+      "name": "WhiteFromDarkWhite",
+      "type": "recipe",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_from_dark_white"
+    },
+    {
+      "name": "DarkYellowFromDarkestYellow",
+      "type": "recipe",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_from_darkest_yellow"
+    },
+    {
+      "name": "DarkYellowFromLightestYellow",
+      "type": "recipe",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_from_lightest_yellow"
+    },
+    {
+      "name": "DarkYellowFromPastelYellow",
+      "type": "recipe",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_from_pastel_yellow"
+    },
+    {
+      "name": "DarkYellowFromYellow",
+      "type": "recipe",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_from_yellow"
+    },
+    {
+      "name": "DarkestBlueFromDarkBlue",
+      "type": "recipe",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_from_dark_blue"
+    },
+    {
+      "name": "DarkestBlueFromBlue",
+      "type": "recipe",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_from_blue"
+    },
+    {
+      "name": "DarkestBlueFromPastelBlue",
+      "type": "recipe",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_from_pastel_blue"
+    },
+    {
+      "name": "DarkestBlueFromLightestBlue",
+      "type": "recipe",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_from_lightest_blue"
+    },
+    {
+      "name": "BlueFromDarkestBlue",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_from_darkest_blue"
+    },
+    {
+      "name": "DarkestBrownFromBrown",
+      "type": "recipe",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_from_brown"
+    },
+    {
+      "name": "DarkestBrownFromDarkBrown",
+      "type": "recipe",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_from_dark_brown"
+    },
+    {
+      "name": "DarkestBrownFromLightestBrown",
+      "type": "recipe",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_from_lightest_brown"
+    },
+    {
+      "name": "DarkestBrownFromPastelBrown",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_from_pastel_brown"
+    },
+    {
+      "name": "BrownFromDarkestBrown",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_from_darkest_brown"
+    },
+    {
+      "name": "DarkestCyanFromCyan",
+      "type": "recipe",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_from_cyan"
+    },
+    {
+      "name": "DarkestCyanFromDarkCyan",
+      "type": "recipe",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_from_dark_cyan"
+    },
+    {
+      "name": "DarkestCyanFromLightestCyan",
+      "type": "recipe",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_from_lightest_cyan"
+    },
+    {
+      "name": "DarkestCyanFromPastelCyan",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_from_pastel_cyan"
+    },
+    {
+      "name": "CyanFromDarkestCyan",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_from_darkest_cyan"
+    },
+    {
+      "name": "DarkestGrayFromGray",
+      "type": "recipe",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_from_gray"
+    },
+    {
+      "name": "DarkestGrayFromDarkGray",
+      "type": "recipe",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_from_dark_gray"
+    },
+    {
+      "name": "DarkestGrayFromLightestGray",
+      "type": "recipe",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_from_lightest_gray"
+    },
+    {
+      "name": "DarkestGrayFromPastelGray",
+      "type": "recipe",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_from_pastel_gray"
+    },
+    {
+      "name": "GrayFromDarkestGray",
+      "type": "recipe",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_from_darkest_gray"
+    },
+    {
+      "name": "DarkestGreenFromDarkGreen",
+      "type": "recipe",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_from_dark_green"
+    },
+    {
+      "name": "DarkestGreenFromGreen",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_from_green"
+    },
+    {
+      "name": "DarkestGreenFromLightestGreen",
+      "type": "recipe",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_from_lightest_green"
+    },
+    {
+      "name": "DarkestGreenFromPastelGreen",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_from_pastel_green"
+    },
+    {
+      "name": "GreenFromDarkestGreen",
+      "type": "recipe",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_from_darkest_green"
+    },
+    {
+      "name": "DarkestLightBlueFromDarkLightBlue",
+      "type": "recipe",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_from_dark_light_blue"
+    },
+    {
+      "name": "DarkestLightBlueFromLightBlue",
+      "type": "recipe",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_from_light_blue"
+    },
+    {
+      "name": "DarkestLightBlueFromLightestLightBlue",
+      "type": "recipe",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_from_lightest_light_blue"
+    },
+    {
+      "name": "DarkestLightBlueFromPastelLightBlue",
+      "type": "recipe",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_from_pastel_light_blue"
+    },
+    {
+      "name": "LightBlueFromDarkestLightBlue",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_from_darkest_light_blue"
+    },
+    {
+      "name": "DarkestLightGrayFromDarkLightGray",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_from_dark_light_gray"
+    },
+    {
+      "name": "DarkestLightGrayFromLightGray",
+      "type": "recipe",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_from_light_gray"
+    },
+    {
+      "name": "DarkestLightGrayFromLightestLightGray",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_from_lightest_light_gray"
+    },
+    {
+      "name": "DarkestLightGrayFromPastelLightGray",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_from_pastel_light_gray"
+    },
+    {
+      "name": "LightGrayFromDarkestLightGray",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_from_darkest_light_gray"
+    },
+    {
+      "name": "DarkestLimeFromDarkLime",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_from_dark_lime"
+    },
+    {
+      "name": "DarkestLimeFromLime",
+      "type": "recipe",
+      "sortid": 419,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_from_lime"
+    },
+    {
+      "name": "DarkestLimeFromLightestLime",
+      "type": "recipe",
+      "sortid": 420,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_from_lightest_lime"
+    },
+    {
+      "name": "DarkestLimeFromPastelLime",
+      "type": "recipe",
+      "sortid": 421,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_from_pastel_lime"
+    },
+    {
+      "name": "LimeFromDarkestLime",
+      "type": "recipe",
+      "sortid": 422,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_from_darkest_lime"
+    },
+    {
+      "name": "DarkestMagentaFromDarkMagenta",
+      "type": "recipe",
+      "sortid": 423,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_from_dark_magenta"
+    },
+    {
+      "name": "DarkestMagentaFromLightestMagenta",
+      "type": "recipe",
+      "sortid": 424,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_from_lightest_magenta"
+    },
+    {
+      "name": "DarkestMagentaFromMagenta",
+      "type": "recipe",
+      "sortid": 425,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_from_magenta"
+    },
+    {
+      "name": "DarkestMagentaFromPastelMagenta",
+      "type": "recipe",
+      "sortid": 426,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_from_pastel_magenta"
+    },
+    {
+      "name": "MagentaFromDarkestMagenta",
+      "type": "recipe",
+      "sortid": 427,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_from_darkest_magenta"
+    },
+    {
+      "name": "DarkestOrangeFromDarkOrange",
+      "type": "recipe",
+      "sortid": 428,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_from_dark_orange"
+    },
+    {
+      "name": "DarkestOrangeFromLightestOrange",
+      "type": "recipe",
+      "sortid": 429,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_from_lightest_orange"
+    },
+    {
+      "name": "DarkestOrangeFromOrange",
+      "type": "recipe",
+      "sortid": 430,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_from_orange"
+    },
+    {
+      "name": "DarkestOrangeFromPastelOrange",
+      "type": "recipe",
+      "sortid": 431,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_from_pastel_orange"
+    },
+    {
+      "name": "OrangeFromDarkestOrange",
+      "type": "recipe",
+      "sortid": 432,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_from_darkest_orange"
+    },
+    {
+      "name": "DarkestPinkFromDarkPink",
+      "type": "recipe",
+      "sortid": 433,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_from_dark_pink"
+    },
+    {
+      "name": "DarkestPinkFromLightestPink",
+      "type": "recipe",
+      "sortid": 434,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_from_lightest_pink"
+    },
+    {
+      "name": "DarkestPinkFromPink",
+      "type": "recipe",
+      "sortid": 435,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_from_pink"
+    },
+    {
+      "name": "DarkestPinkFromPastelPink",
+      "type": "recipe",
+      "sortid": 436,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_from_pastel_pink"
+    },
+    {
+      "name": "PinkFromDarkestPink",
+      "type": "recipe",
+      "sortid": 437,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_from_darkest_pink"
+    },
+    {
+      "name": "DarkestPurpleFromDarkPurple",
+      "type": "recipe",
+      "sortid": 438,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_from_dark_purple"
+    },
+    {
+      "name": "DarkestPurpleFromLightestPurple",
+      "type": "recipe",
+      "sortid": 439,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_from_lightest_purple"
+    },
+    {
+      "name": "DarkestPurpleFromPastelPurple",
+      "type": "recipe",
+      "sortid": 440,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_from_pastel_purple"
+    },
+    {
+      "name": "DarkestPurpleFromPurple",
+      "type": "recipe",
+      "sortid": 441,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_from_purple"
+    },
+    {
+      "name": "PurpleFromDarkestPurple",
+      "type": "recipe",
+      "sortid": 442,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_from_darkest_purple"
+    },
+    {
+      "name": "DarkestRedFromDarkRed",
+      "type": "recipe",
+      "sortid": 443,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_from_dark_red"
+    },
+    {
+      "name": "DarkestRedFromLightestRed",
+      "type": "recipe",
+      "sortid": 444,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_from_lightest_red"
+    },
+    {
+      "name": "DarkestRedFromPastelRed",
+      "type": "recipe",
+      "sortid": 445,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_from_pastel_red"
+    },
+    {
+      "name": "DarkestRedFromRed",
+      "type": "recipe",
+      "sortid": 446,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_from_red"
+    },
+    {
+      "name": "RedFromDarkestRed",
+      "type": "recipe",
+      "sortid": 447,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_from_darkest_red"
+    },
+    {
+      "name": "DarkestWhiteFromDarkWhite",
+      "type": "recipe",
+      "sortid": 448,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_white_from_dark_white"
+    },
+    {
+      "name": "DarkestWhiteFromWhite",
+      "type": "recipe",
+      "sortid": 449,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_white_from_white"
+    },
+    {
+      "name": "WhiteFromDarkestWhite",
+      "type": "recipe",
+      "sortid": 450,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_from_darkest_white"
+    },
+    {
+      "name": "DarkestYellowFromDarkYellow",
+      "type": "recipe",
+      "sortid": 451,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_from_dark_yellow"
+    },
+    {
+      "name": "DarkestYellowFromLightestYellow",
+      "type": "recipe",
+      "sortid": 452,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_from_lightest_yellow"
+    },
+    {
+      "name": "DarkestYellowFromPastelYellow",
+      "type": "recipe",
+      "sortid": 453,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_from_pastel_yellow"
+    },
+    {
+      "name": "DarkestYellowFromYellow",
+      "type": "recipe",
+      "sortid": 454,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_from_yellow"
+    },
+    {
+      "name": "YellowFromDarkestYellow",
+      "type": "recipe",
+      "sortid": 455,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_from_darkest_yellow"
+    },
+    {
+      "name": "LightestBlackFromBlack",
+      "type": "recipe",
+      "sortid": 456,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_black_from_black"
+    },
+    {
+      "name": "LightestBlackFromPastelBlack",
+      "type": "recipe",
+      "sortid": 457,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_black_from_pastel_black"
+    },
+    {
+      "name": "LightestBlueFromBlue",
+      "type": "recipe",
+      "sortid": 458,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_from_blue"
+    },
+    {
+      "name": "LightestBlueFromPastelBlue",
+      "type": "recipe",
+      "sortid": 459,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_from_pastel_blue"
+    },
+    {
+      "name": "LightestBlueFromDarkBlue",
+      "type": "recipe",
+      "sortid": 460,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_from_dark_blue"
+    },
+    {
+      "name": "LightestBlueFromDarkestBlue",
+      "type": "recipe",
+      "sortid": 461,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_from_darkest_blue"
+    },
+    {
+      "name": "BlackFromLightestBlack",
+      "type": "recipe",
+      "sortid": 462,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_from_lightest_black"
+    },
+    {
+      "name": "BlueFromLightestBlue",
+      "type": "recipe",
+      "sortid": 463,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_from_lightest_blue"
+    },
+    {
+      "name": "LightestBrownFromBrown",
+      "type": "recipe",
+      "sortid": 464,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_from_brown"
+    },
+    {
+      "name": "LightestBrownFromDarkBrown",
+      "type": "recipe",
+      "sortid": 465,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_from_dark_brown"
+    },
+    {
+      "name": "LightestBrownFromDarkestBrown",
+      "type": "recipe",
+      "sortid": 466,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_from_darkest_brown"
+    },
+    {
+      "name": "LightestBrownFromPastelBrown",
+      "type": "recipe",
+      "sortid": 467,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_from_pastel_brown"
+    },
+    {
+      "name": "BrownFromLightestBrown",
+      "type": "recipe",
+      "sortid": 468,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_from_lightest_brown"
+    },
+    {
+      "name": "LightestCyanFromCyan",
+      "type": "recipe",
+      "sortid": 469,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_from_cyan"
+    },
+    {
+      "name": "LightestCyanFromDarkCyan",
+      "type": "recipe",
+      "sortid": 470,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_from_dark_cyan"
+    },
+    {
+      "name": "LightestCyanFromDarkestCyan",
+      "type": "recipe",
+      "sortid": 471,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_from_darkest_cyan"
+    },
+    {
+      "name": "LightestCyanFromPastelCyan",
+      "type": "recipe",
+      "sortid": 472,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_from_pastel_cyan"
+    },
+    {
+      "name": "CyanFromLightestCyan",
+      "type": "recipe",
+      "sortid": 473,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_from_lightest_cyan"
+    },
+    {
+      "name": "LightestGrayFromGray",
+      "type": "recipe",
+      "sortid": 474,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_from_gray"
+    },
+    {
+      "name": "LightestGrayFromDarkGray",
+      "type": "recipe",
+      "sortid": 475,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_from_dark_gray"
+    },
+    {
+      "name": "LightestGrayFromDarkestGray",
+      "type": "recipe",
+      "sortid": 476,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_from_darkest_gray"
+    },
+    {
+      "name": "LightestGrayFromPastelGray",
+      "type": "recipe",
+      "sortid": 477,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_from_pastel_gray"
+    },
+    {
+      "name": "GrayFromLightestGray",
+      "type": "recipe",
+      "sortid": 478,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_from_lightest_gray"
+    },
+    {
+      "name": "LightestGreenFromDarkGreen",
+      "type": "recipe",
+      "sortid": 479,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_from_dark_green"
+    },
+    {
+      "name": "LightestGreenFromDarkestGreen",
+      "type": "recipe",
+      "sortid": 480,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_from_darkest_green"
+    },
+    {
+      "name": "LightestGreenFromGreen",
+      "type": "recipe",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_from_green"
+    },
+    {
+      "name": "LightestGreenFromPastelGreen",
+      "type": "recipe",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_from_pastel_green"
+    },
+    {
+      "name": "GreenFromLightestGreen",
+      "type": "recipe",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_from_lightest_green"
+    },
+    {
+      "name": "LightestLightBlueFromDarkLightBlue",
+      "type": "recipe",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_from_dark_light_blue"
+    },
+    {
+      "name": "LightestLightBlueFromDarkestLightBlue",
+      "type": "recipe",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_from_darkest_light_blue"
+    },
+    {
+      "name": "LightestLightBlueFromLightBlue",
+      "type": "recipe",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_from_light_blue"
+    },
+    {
+      "name": "LightestLightBlueFromPastelLightBlue",
+      "type": "recipe",
+      "sortid": 487,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_from_pastel_light_blue"
+    },
+    {
+      "name": "LightBlueFromLightestLightBlue",
+      "type": "recipe",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_from_lightest_light_blue"
+    },
+    {
+      "name": "LightestLightGrayFromDarkLightGray",
+      "type": "recipe",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_from_dark_light_gray"
+    },
+    {
+      "name": "LightestLightGrayFromDarkestLightGray",
+      "type": "recipe",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_from_darkest_light_gray"
+    },
+    {
+      "name": "LightestLightGrayFromLightGray",
+      "type": "recipe",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_from_light_gray"
+    },
+    {
+      "name": "LightestLightGrayFromPastelLightGray",
+      "type": "recipe",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_from_pastel_light_gray"
+    },
+    {
+      "name": "LightGrayFromLightestLightGray",
+      "type": "recipe",
+      "sortid": 493,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_from_lightest_light_gray"
+    },
+    {
+      "name": "LightestLimeFromDarkLime",
+      "type": "recipe",
+      "sortid": 494,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_from_dark_lime"
+    },
+    {
+      "name": "LightestLimeFromDarkestLime",
+      "type": "recipe",
+      "sortid": 495,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_from_darkest_lime"
+    },
+    {
+      "name": "LightestLimeFromLime",
+      "type": "recipe",
+      "sortid": 496,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_from_lime"
+    },
+    {
+      "name": "LightestLimeFromPastelLime",
+      "type": "recipe",
+      "sortid": 497,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_from_pastel_lime"
+    },
+    {
+      "name": "LimeFromLightestLime",
+      "type": "recipe",
+      "sortid": 498,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_from_lightest_lime"
+    },
+    {
+      "name": "LightestMagentaFromDarkMagenta",
+      "type": "recipe",
+      "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_from_dark_magenta"
+    },
+    {
+      "name": "LightestMagentaFromDarkestMagenta",
+      "type": "recipe",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_from_darkest_magenta"
+    },
+    {
+      "name": "LightestMagentaFromMagenta",
+      "type": "recipe",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_from_magenta"
+    },
+    {
+      "name": "LightestMagentaFromPastelMagenta",
+      "type": "recipe",
+      "sortid": 502,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_from_pastel_magenta"
+    },
+    {
+      "name": "MagentaFromLightestMagenta",
+      "type": "recipe",
+      "sortid": 503,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_from_lightest_magenta"
+    },
+    {
+      "name": "LightestOrangeFromDarkOrange",
+      "type": "recipe",
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_from_dark_orange"
+    },
+    {
+      "name": "LightestOrangeFromDarkestOrange",
+      "type": "recipe",
+      "sortid": 505,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_from_darkest_orange"
+    },
+    {
+      "name": "LightestOrangeFromOrange",
+      "type": "recipe",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_from_orange"
+    },
+    {
+      "name": "LightestOrangeFromPastelOrange",
+      "type": "recipe",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_from_pastel_orange"
+    },
+    {
+      "name": "OrangeFromLightestOrange",
+      "type": "recipe",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_from_lightest_orange"
+    },
+    {
+      "name": "LightestPinkFromDarkPink",
+      "type": "recipe",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_from_dark_pink"
+    },
+    {
+      "name": "LightestPinkFromDarkestPink",
+      "type": "recipe",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_from_darkest_pink"
+    },
+    {
+      "name": "LightestPinkFromPink",
+      "type": "recipe",
+      "sortid": 511,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_from_pink"
+    },
+    {
+      "name": "LightestPinkFromPastelPink",
+      "type": "recipe",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_from_pastel_pink"
+    },
+    {
+      "name": "PinkFromLightestPink",
+      "type": "recipe",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_from_lightest_pink"
+    },
+    {
+      "name": "LightestPurpleFromDarkPurple",
+      "type": "recipe",
+      "sortid": 514,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_from_dark_purple"
+    },
+    {
+      "name": "LightestPurpleFromDarkestPurple",
+      "type": "recipe",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_from_darkest_purple"
+    },
+    {
+      "name": "LightestPurpleFromPastelPurple",
+      "type": "recipe",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_from_pastel_purple"
+    },
+    {
+      "name": "LightestPurpleFromPurple",
+      "type": "recipe",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_from_purple"
+    },
+    {
+      "name": "PurpleFromLightestPurple",
+      "type": "recipe",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_from_lightest_purple"
+    },
+    {
+      "name": "LightestRedFromDarkRed",
+      "type": "recipe",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_from_dark_red"
+    },
+    {
+      "name": "LightestRedFromDarkestRed",
+      "type": "recipe",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_from_darkest_red"
+    },
+    {
+      "name": "LightestRedFromPastelRed",
+      "type": "recipe",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_from_pastel_red"
+    },
+    {
+      "name": "LightestRedFromRed",
+      "type": "recipe",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_from_red"
+    },
+    {
+      "name": "RedFromLightestRed",
+      "type": "recipe",
+      "sortid": 523,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_from_lightest_red"
+    },
+    {
+      "name": "LightestYellowFromDarkYellow",
+      "type": "recipe",
+      "sortid": 524,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_from_dark_yellow"
+    },
+    {
+      "name": "LightestYellowFromDarkestYellow",
+      "type": "recipe",
+      "sortid": 525,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_from_darkest_yellow"
+    },
+    {
+      "name": "LightestYellowFromPastelYellow",
+      "type": "recipe",
+      "sortid": 526,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_from_pastel_yellow"
+    },
+    {
+      "name": "LightestYellowFromYellow",
+      "type": "recipe",
+      "sortid": 527,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_from_yellow"
+    },
+    {
+      "name": "YellowFromLightestYellow",
+      "type": "recipe",
+      "sortid": 528,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_from_lightest_yellow"
+    },
+    {
+      "name": "PastelBlackFromBlack",
+      "type": "recipe",
+      "sortid": 529,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_black_from_black"
+    },
+    {
+      "name": "PastelBlackFromLightestBlack",
+      "type": "recipe",
+      "sortid": 530,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_black_from_lightest_black"
+    },
+    {
+      "name": "BlackFromPastelBlack",
+      "type": "recipe",
+      "sortid": 531,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_from_pastel_black"
+    },
+    {
+      "name": "PastelBlueFromDarkestBlue",
+      "type": "recipe",
+      "sortid": 532,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_from_darkest_blue"
+    },
+    {
+      "name": "PastelBlueFromDarkBlue",
+      "type": "recipe",
+      "sortid": 533,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_from_dark_blue"
+    },
+    {
+      "name": "PastelBlueFromBlue",
+      "type": "recipe",
+      "sortid": 534,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_from_blue"
+    },
+    {
+      "name": "PastelBlueFromLightestBlue",
+      "type": "recipe",
+      "sortid": 535,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_from_lightest_blue"
+    },
+    {
+      "name": "BlueFromPastelBlue",
+      "type": "recipe",
+      "sortid": 536,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_from_pastel_blue"
+    },
+    {
+      "name": "PastelBrownFromBrown",
+      "type": "recipe",
+      "sortid": 537,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_from_brown"
+    },
+    {
+      "name": "PastelBrownFromDarkBrown",
+      "type": "recipe",
+      "sortid": 538,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_from_dark_brown"
+    },
+    {
+      "name": "PastelBrownFromDarkestBrown",
+      "type": "recipe",
+      "sortid": 539,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_from_darkest_brown"
+    },
+    {
+      "name": "PastelBrownFromLightestBrown",
+      "type": "recipe",
+      "sortid": 540,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_from_lightest_brown"
+    },
+    {
+      "name": "BrownFromPastelBrown",
+      "type": "recipe",
+      "sortid": 541,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_from_pastel_brown"
+    },
+    {
+      "name": "PastelCyanFromCyan",
+      "type": "recipe",
+      "sortid": 542,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_from_cyan"
+    },
+    {
+      "name": "PastelCyanFromDarkCyan",
+      "type": "recipe",
+      "sortid": 543,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_from_dark_cyan"
+    },
+    {
+      "name": "PastelCyanFromDarkestCyan",
+      "type": "recipe",
+      "sortid": 544,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_from_darkest_cyan"
+    },
+    {
+      "name": "PastelCyanFromLightestCyan",
+      "type": "recipe",
+      "sortid": 545,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_from_lightest_cyan"
+    },
+    {
+      "name": "CyanFromPastelCyan",
+      "type": "recipe",
+      "sortid": 546,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_from_pastel_cyan"
+    },
+    {
+      "name": "PastelGrayFromGray",
+      "type": "recipe",
+      "sortid": 547,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_from_gray"
+    },
+    {
+      "name": "PastelGrayFromDarkGray",
+      "type": "recipe",
+      "sortid": 548,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_from_dark_gray"
+    },
+    {
+      "name": "PastelGrayFromDarkestGray",
+      "type": "recipe",
+      "sortid": 549,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_from_darkest_gray"
+    },
+    {
+      "name": "PastelGrayFromLightestGray",
+      "type": "recipe",
+      "sortid": 550,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_from_lightest_gray"
+    },
+    {
+      "name": "GrayFromPastelGray",
+      "type": "recipe",
+      "sortid": 551,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_from_pastel_gray"
+    },
+    {
+      "name": "PastelGreenFromDarkGreen",
+      "type": "recipe",
+      "sortid": 552,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_from_dark_green"
+    },
+    {
+      "name": "PastelGreenFromDarkestGreen",
+      "type": "recipe",
+      "sortid": 553,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_from_darkest_green"
+    },
+    {
+      "name": "PastelGreenFromGreen",
+      "type": "recipe",
+      "sortid": 554,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_from_green"
+    },
+    {
+      "name": "PastelGreenFromLightestGreen",
+      "type": "recipe",
+      "sortid": 555,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_from_lightest_green"
+    },
+    {
+      "name": "GreenFromPastelGreen",
+      "type": "recipe",
+      "sortid": 556,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_from_pastel_green"
+    },
+    {
+      "name": "PastelLightBlueFromDarkLightBlue",
+      "type": "recipe",
+      "sortid": 557,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_from_dark_light_blue"
+    },
+    {
+      "name": "PastelLightBlueFromDarkestLightBlue",
+      "type": "recipe",
+      "sortid": 558,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_from_darkest_light_blue"
+    },
+    {
+      "name": "PastelLightBlueFromLightBlue",
+      "type": "recipe",
+      "sortid": 559,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_from_light_blue"
+    },
+    {
+      "name": "PastelLightBlueFromLightestLightBlue",
+      "type": "recipe",
+      "sortid": 560,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_from_lightest_light_blue"
+    },
+    {
+      "name": "LightBlueFromPastelLightBlue",
+      "type": "recipe",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_from_pastel_light_blue"
+    },
+    {
+      "name": "PastelLightGrayFromDarkLightGray",
+      "type": "recipe",
+      "sortid": 562,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_from_dark_light_gray"
+    },
+    {
+      "name": "PastelLightGrayFromDarkestLightGray",
+      "type": "recipe",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_from_darkest_light_gray"
+    },
+    {
+      "name": "PastelLightGrayFromLightGray",
+      "type": "recipe",
+      "sortid": 564,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_from_light_gray"
+    },
+    {
+      "name": "PastelLightGrayFromLightestLightGray",
+      "type": "recipe",
+      "sortid": 565,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_from_lightest_light_gray"
+    },
+    {
+      "name": "LightGrayFromPastelLightGray",
+      "type": "recipe",
+      "sortid": 566,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_from_pastel_light_gray"
+    },
+    {
+      "name": "PastelLimeFromDarkLime",
+      "type": "recipe",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_from_dark_lime"
+    },
+    {
+      "name": "PastelLimeFromDarkestLime",
+      "type": "recipe",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_from_darkest_lime"
+    },
+    {
+      "name": "PastelLimeFromLime",
+      "type": "recipe",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_from_lime"
+    },
+    {
+      "name": "PastelLimeFromLightestLime",
+      "type": "recipe",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_from_lightest_lime"
+    },
+    {
+      "name": "LimeFromPastelLime",
+      "type": "recipe",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_from_pastel_lime"
+    },
+    {
+      "name": "PastelMagentaFromDarkMagenta",
+      "type": "recipe",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_from_dark_magenta"
+    },
+    {
+      "name": "PastelMagentaFromDarkestMagenta",
+      "type": "recipe",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_from_darkest_magenta"
+    },
+    {
+      "name": "PastelMagentaFromLightestMagenta",
+      "type": "recipe",
+      "sortid": 574,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_from_lightest_magenta"
+    },
+    {
+      "name": "PastelMagentaFromMagenta",
+      "type": "recipe",
+      "sortid": 575,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_from_magenta"
+    },
+    {
+      "name": "MagentaFromPastelMagenta",
+      "type": "recipe",
+      "sortid": 576,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_from_pastel_magenta"
+    },
+    {
+      "name": "PastelOrangeFromDarkOrange",
+      "type": "recipe",
+      "sortid": 577,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_from_dark_orange"
+    },
+    {
+      "name": "PastelOrangeFromDarkestOrange",
+      "type": "recipe",
+      "sortid": 578,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_from_darkest_orange"
+    },
+    {
+      "name": "PastelOrangeFromLightestOrange",
+      "type": "recipe",
+      "sortid": 579,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_from_lightest_orange"
+    },
+    {
+      "name": "PastelOrangeFromOrange",
+      "type": "recipe",
+      "sortid": 580,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_from_orange"
+    },
+    {
+      "name": "OrangeFromPastelOrange",
+      "type": "recipe",
+      "sortid": 581,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_from_pastel_orange"
+    },
+    {
+      "name": "PastelPinkFromDarkPink",
+      "type": "recipe",
+      "sortid": 582,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_from_dark_pink"
+    },
+    {
+      "name": "PastelPinkFromDarkestPink",
+      "type": "recipe",
+      "sortid": 583,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_from_darkest_pink"
+    },
+    {
+      "name": "PastelPinkFromLightestPink",
+      "type": "recipe",
+      "sortid": 584,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_from_lightest_pink"
+    },
+    {
+      "name": "PastelPinkFromPink",
+      "type": "recipe",
+      "sortid": 585,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_from_pink"
+    },
+    {
+      "name": "PinkFromPastelPink",
+      "type": "recipe",
+      "sortid": 586,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_from_pastel_pink"
+    },
+    {
+      "name": "PastelPurpleFromDarkPurple",
+      "type": "recipe",
+      "sortid": 587,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_from_dark_purple"
+    },
+    {
+      "name": "PastelPurpleFromDarkestPurple",
+      "type": "recipe",
+      "sortid": 588,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_from_darkest_purple"
+    },
+    {
+      "name": "PastelPurpleFromLightestPurple",
+      "type": "recipe",
+      "sortid": 589,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_from_lightest_purple"
+    },
+    {
+      "name": "PastelPurpleFromPurple",
+      "type": "recipe",
+      "sortid": 590,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_from_purple"
+    },
+    {
+      "name": "PurpleFromPastelPurple",
+      "type": "recipe",
+      "sortid": 591,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_from_pastel_purple"
+    },
+    {
+      "name": "PastelRedFromDarkRed",
+      "type": "recipe",
+      "sortid": 592,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_from_dark_red"
+    },
+    {
+      "name": "PastelRedFromDarkestRed",
+      "type": "recipe",
+      "sortid": 593,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_from_darkest_red"
+    },
+    {
+      "name": "PastelRedFromLightestRed",
+      "type": "recipe",
+      "sortid": 594,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_from_lightest_red"
+    },
+    {
+      "name": "PastelRedFromRed",
+      "type": "recipe",
+      "sortid": 595,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_from_red"
+    },
+    {
+      "name": "RedFromPastelRed",
+      "type": "recipe",
+      "sortid": 596,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_from_pastel_red"
+    },
+    {
+      "name": "PastelYellowFromDarkYellow",
+      "type": "recipe",
+      "sortid": 597,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_from_dark_yellow"
+    },
+    {
+      "name": "PastelYellowFromDarkestYellow",
+      "type": "recipe",
+      "sortid": 598,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_from_darkest_yellow"
+    },
+    {
+      "name": "PastelYellowFromLightestYellow",
+      "type": "recipe",
+      "sortid": 599,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_from_lightest_yellow"
+    },
+    {
+      "name": "PastelYellowFromYellow",
+      "type": "recipe",
+      "sortid": 600,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_from_yellow"
+    },
+    {
+      "name": "YellowFromPastelYellow",
+      "type": "recipe",
+      "sortid": 601,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_from_pastel_yellow"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.cowpewter_world_of_color.pastel_yellow_dye": "Pastel Yellow Dye",
       "block.cowpewter_world_of_color.pastel_light_blue_concrete": "Pastel Light Blue Concrete",
-      "block.cowpewter_world_of_color.dark_purple_concrete": "Dark Purple Concrete",
-      "block.cowpewter_world_of_color.darkest_pink_concrete": "Darkest Pink Concrete",
+      "item.cowpewter_world_of_color.pastel_yellow_dye": "Pastel Yellow Dye",
       "item.cowpewter_world_of_color.lightest_magenta_dye": "Lightest Magenta Dye",
+      "block.cowpewter_world_of_color.darkest_pink_concrete": "Darkest Pink Concrete",
+      "block.cowpewter_world_of_color.dark_purple_concrete": "Dark Purple Concrete",
       "block.cowpewter_world_of_color.pastel_green_concrete_powder": "Pastel Green Concrete Powder",
       "block.cowpewter_world_of_color.dark_magenta_concrete": "Dark Magenta Concrete",
       "item.cowpewter_woc.darkest_pink_dye": "Darkest Pink Dye",
