@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "cowpewter_woc:blocks/double_pastel_light_blue_concrete",
-    "up": "cowpewter_woc:blocks/double_pastel_light_blue_concrete",
-    "north": "cowpewter_woc:blocks/double_pastel_light_blue_concrete",
-    "east": "cowpewter_woc:blocks/double_pastel_light_blue_concrete",
-    "south": "cowpewter_woc:blocks/double_pastel_light_blue_concrete",
-    "west": "cowpewter_woc:blocks/double_pastel_light_blue_concrete",
-    "particle": "cowpewter_woc:blocks/double_pastel_light_blue_concrete"
+    "down": "cowpewter_woc:blocks/concrete_light_blue_lightest",
+    "up": "cowpewter_woc:blocks/concrete_light_blue_lightest",
+    "north": "cowpewter_woc:blocks/concrete_light_blue_lightest",
+    "east": "cowpewter_woc:blocks/concrete_light_blue_lightest",
+    "south": "cowpewter_woc:blocks/concrete_light_blue_lightest",
+    "west": "cowpewter_woc:blocks/concrete_light_blue_lightest",
+    "particle": "cowpewter_woc:blocks/concrete_light_blue_lightest"
   }
 }

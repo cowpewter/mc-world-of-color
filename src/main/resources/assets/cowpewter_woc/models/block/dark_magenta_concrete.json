@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "cowpewter_woc:blocks/dark_magenta_concrete",
-    "up": "cowpewter_woc:blocks/dark_magenta_concrete",
-    "north": "cowpewter_woc:blocks/dark_magenta_concrete",
-    "east": "cowpewter_woc:blocks/dark_magenta_concrete",
-    "south": "cowpewter_woc:blocks/dark_magenta_concrete",
-    "west": "cowpewter_woc:blocks/dark_magenta_concrete",
-    "particle": "cowpewter_woc:blocks/dark_magenta_concrete"
+    "down": "cowpewter_woc:blocks/concrete_magenta_dark",
+    "up": "cowpewter_woc:blocks/concrete_magenta_dark",
+    "north": "cowpewter_woc:blocks/concrete_magenta_dark",
+    "east": "cowpewter_woc:blocks/concrete_magenta_dark",
+    "south": "cowpewter_woc:blocks/concrete_magenta_dark",
+    "west": "cowpewter_woc:blocks/concrete_magenta_dark",
+    "particle": "cowpewter_woc:blocks/concrete_magenta_dark"
   }
 }

@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder",
-    "up": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder",
-    "north": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder",
-    "east": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder",
-    "south": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder",
-    "west": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder",
-    "particle": "cowpewter_woc:blocks/double_pastel_lime_concrete_powder"
+    "down": "cowpewter_woc:blocks/concrete_powder_lime_lightest",
+    "up": "cowpewter_woc:blocks/concrete_powder_lime_lightest",
+    "north": "cowpewter_woc:blocks/concrete_powder_lime_lightest",
+    "east": "cowpewter_woc:blocks/concrete_powder_lime_lightest",
+    "south": "cowpewter_woc:blocks/concrete_powder_lime_lightest",
+    "west": "cowpewter_woc:blocks/concrete_powder_lime_lightest",
+    "particle": "cowpewter_woc:blocks/concrete_powder_lime_lightest"
   }
 }
