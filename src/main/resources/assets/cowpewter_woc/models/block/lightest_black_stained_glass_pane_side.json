@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "cowpewter_woc:blocks/stained_glass_pane_top_black_lightest",
+    "pane": "cowpewter_woc:blocks/stained_glass_black_lightest"
+  }
+}

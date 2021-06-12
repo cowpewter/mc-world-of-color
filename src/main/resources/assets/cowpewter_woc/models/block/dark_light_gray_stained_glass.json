@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cowpewter_woc:blocks/stained_glass_light_gray_dark",
+    "up": "cowpewter_woc:blocks/stained_glass_light_gray_dark",
+    "north": "cowpewter_woc:blocks/stained_glass_light_gray_dark",
+    "east": "cowpewter_woc:blocks/stained_glass_light_gray_dark",
+    "south": "cowpewter_woc:blocks/stained_glass_light_gray_dark",
+    "west": "cowpewter_woc:blocks/stained_glass_light_gray_dark",
+    "particle": "cowpewter_woc:blocks/stained_glass_light_gray_dark"
+  }
+}
