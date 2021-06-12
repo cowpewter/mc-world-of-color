@@ -1,0 +1,16 @@
+{
+  "group": "cowpewter_woc",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cowpewter_woc:lightest_light_gray_dye"
+    },
+    {
+      "item": "minecraft:white_wool"
+    }
+  ],
+  "result": {
+    "item": "cowpewter_woc:lightest_light_gray_wool",
+    "count": 1
+  }
+}

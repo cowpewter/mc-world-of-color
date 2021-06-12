@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_light_gray_dye",
+    "texture": "dye_light_gray_pastel",
     "customModelName": "Normal",
     "name": "Pastel Light Gray Dye",
     "rarity": "COMMON",

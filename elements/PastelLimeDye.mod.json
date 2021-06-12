@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_lime_dye",
+    "texture": "dye_lime_pastel",
     "customModelName": "Normal",
     "name": "Pastel Lime Dye",
     "rarity": "COMMON",

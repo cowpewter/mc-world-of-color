@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_yellow_dye",
+    "texture": "dye_yellow_dark",
     "customModelName": "Normal",
     "name": "Dark Yellow Dye",
     "rarity": "COMMON",

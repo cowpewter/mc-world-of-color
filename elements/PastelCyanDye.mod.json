@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_cyan_dye",
+    "texture": "dye_cyan_pastel",
     "customModelName": "Normal",
     "name": "Pastel Cyan Dye",
     "rarity": "COMMON",

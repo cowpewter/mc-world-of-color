@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_brown_dye",
+    "texture": "dye_brown_pastel",
     "customModelName": "Normal",
     "name": "Pastel Brown Dye",
     "rarity": "COMMON",

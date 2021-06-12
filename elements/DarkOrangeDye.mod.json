@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_orange_dye",
+    "texture": "dye_orange_dark",
     "customModelName": "Normal",
     "name": "Dark Orange Dye",
     "rarity": "COMMON",

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_light_blue_dye",
+    "texture": "dye_light_blue_pastel",
     "customModelName": "Normal",
     "name": "Pastel Light Blue Dye",
     "rarity": "COMMON",

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_pink_dye",
+    "texture": "dye_pink_pastel",
     "customModelName": "Normal",
     "name": "Pastel Pink Dye",
     "rarity": "COMMON",

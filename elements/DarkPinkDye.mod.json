@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_pink_dye",
+    "texture": "dye_pink_dark",
     "customModelName": "Normal",
     "name": "Dark Pink Dye",
     "rarity": "COMMON",

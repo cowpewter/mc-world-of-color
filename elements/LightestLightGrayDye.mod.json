@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_light_gray_dye",
+    "texture": "dye_light_gray_lightest",
     "customModelName": "Normal",
     "name": "Lightest Light Gray Dye",
     "rarity": "COMMON",

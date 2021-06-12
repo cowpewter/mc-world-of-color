@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_white_dye",
+    "texture": "dye_white_dark",
     "customModelName": "Normal",
     "name": "Dark White Dye",
     "rarity": "COMMON",

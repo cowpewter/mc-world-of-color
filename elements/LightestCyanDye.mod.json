@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_cyan_dye",
+    "texture": "dye_cyan_lightest",
     "customModelName": "Normal",
     "name": "Lightest Cyan Dye",
     "rarity": "COMMON",

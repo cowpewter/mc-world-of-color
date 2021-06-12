@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_dark_magenta_dye",
+    "texture": "dye_magenta_darkest",
     "customModelName": "Normal",
     "name": "Darkest Magenta Dye",
     "rarity": "COMMON",

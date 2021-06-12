@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_yellow_dye",
+    "texture": "dye_yellow_lightest",
     "customModelName": "Normal",
     "name": "Lightest Yellow Dye",
     "rarity": "COMMON",

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_magenta_dye",
+    "texture": "dye_magenta_pastel",
     "customModelName": "Normal",
     "name": "Pastel Magenta Dye",
     "rarity": "COMMON",

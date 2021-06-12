@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_blue_dye",
+    "texture": "dye_blue_dark",
     "customModelName": "Normal",
     "name": "Dark Blue Dye",
     "rarity": "COMMON",

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_gray_dye",
+    "texture": "dye_gray_dark",
     "customModelName": "Normal",
     "name": "Dark Gray Dye",
     "rarity": "COMMON",

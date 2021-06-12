@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_brown_dye",
+    "texture": "dye_brown_lightest",
     "customModelName": "Normal",
     "name": "Lightest Brown Dye",
     "rarity": "COMMON",

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_purple_dye",
+    "texture": "dye_purple_pastel",
     "customModelName": "Normal",
     "name": "Pastel Purple Dye",
     "rarity": "COMMON",

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cowpewter_woc:items/double_dark_orange_dye"
+    "layer0": "cowpewter_woc:items/dye_orange_darkest"
   }
 }

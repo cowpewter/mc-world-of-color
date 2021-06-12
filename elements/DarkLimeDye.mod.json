@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_lime_dye",
+    "texture": "dye_lime_dark",
     "customModelName": "Normal",
     "name": "Dark Lime Dye",
     "rarity": "COMMON",

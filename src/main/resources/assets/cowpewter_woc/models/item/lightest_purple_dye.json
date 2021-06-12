@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cowpewter_woc:items/double_pastel_purple_dye"
+    "layer0": "cowpewter_woc:items/dye_purple_lightest"
   }
 }

@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_green_dye",
+    "texture": "dye_green_lightest",
     "customModelName": "Normal",
     "name": "Lightest Green Dye",
     "rarity": "COMMON",

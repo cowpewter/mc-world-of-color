@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_pink_dye",
+    "texture": "dye_pink_lightest",
     "customModelName": "Normal",
     "name": "Lightest Pink Dye",
     "rarity": "COMMON",

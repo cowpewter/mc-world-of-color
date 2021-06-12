@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cowpewter_woc:blocks/wool_black_pastel",
+    "up": "cowpewter_woc:blocks/wool_black_pastel",
+    "north": "cowpewter_woc:blocks/wool_black_pastel",
+    "east": "cowpewter_woc:blocks/wool_black_pastel",
+    "south": "cowpewter_woc:blocks/wool_black_pastel",
+    "west": "cowpewter_woc:blocks/wool_black_pastel",
+    "particle": "cowpewter_woc:blocks/wool_black_pastel"
+  }
+}

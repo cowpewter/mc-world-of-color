@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dark_cyan_dye",
+    "texture": "dye_cyan_dark",
     "customModelName": "Normal",
     "name": "Dark Cyan Dye",
     "rarity": "COMMON",

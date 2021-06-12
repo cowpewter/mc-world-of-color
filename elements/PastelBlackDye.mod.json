@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "pastel_black_dye",
+    "texture": "dye_black_pastel",
     "customModelName": "Normal",
     "name": "Pastel Black Dye",
     "rarity": "COMMON",

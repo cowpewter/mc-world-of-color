@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "double_pastel_orange_dye",
+    "texture": "dye_orange_lightest",
     "customModelName": "Normal",
     "name": "Lightest Orange Dye",
     "rarity": "COMMON",
