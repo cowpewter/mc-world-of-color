@@ -10,7 +10,6 @@ import net.minecraft.world.IWorldReader;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.IBlockDisplayReader;
 import net.minecraft.util.math.BlockPos;
-import net.minecraft.util.Direction;
 import net.minecraft.loot.LootContext;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
@@ -21,6 +20,7 @@ import net.minecraft.client.renderer.RenderTypeLookup;
 import net.minecraft.client.renderer.RenderType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
+import net.minecraft.block.PaneBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
@@ -48,7 +48,7 @@ public class LightestGrayStainedGlassPaneBlock extends CowpewterWocModElements.M
 	public void clientLoad(FMLClientSetupEvent event) {
 		RenderTypeLookup.setRenderLayer(block, RenderType.getTranslucent());
 	}
-	public static class CustomBlock extends Block {
+	public static class CustomBlock extends PaneBlock {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.GLASS).sound(SoundType.GLASS).hardnessAndResistance(0.3f, 0.3f).setLightLevel(s -> 0).notSolid()
 					.setOpaque((bs, br, bp) -> false));
@@ -63,11 +63,6 @@ public class LightestGrayStainedGlassPaneBlock extends CowpewterWocModElements.M
 		@Override
 		public float[] getBeaconColorMultiplier(BlockState state, IWorldReader world, BlockPos pos, BlockPos beaconPos) {
 			return new float[]{0.76862745098f, 0.76862745098f, 0.756862745098f};
-		}
-
-		@OnlyIn(Dist.CLIENT)
-		public boolean isSideInvisible(BlockState state, BlockState adjacentBlockState, Direction side) {
-			return adjacentBlockState.getBlock() == this ? true : super.isSideInvisible(state, adjacentBlockState, side);
 		}
 
 		@Override

@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 16,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LightestGreenStainedGlass"
+      },
+      {
+        "value": "CUSTOM:LightestGreenStainedGlass"
+      },
+      {
+        "value": "CUSTOM:LightestGreenStainedGlass"
+      },
+      {
+        "value": "CUSTOM:LightestGreenStainedGlass"
+      },
+      {
+        "value": "CUSTOM:LightestGreenStainedGlass"
+      },
+      {
+        "value": "CUSTOM:LightestGreenStainedGlass"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightestGreenStainedGlassPane"
+    },
+    "name": "lightest_green_stained_glass_pane_from_glass",
+    "namespace": "mod"
+  }
+}

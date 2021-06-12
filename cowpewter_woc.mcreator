@@ -7022,6 +7022,1617 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pastel_yellow_stained_glass_pane"
+    },
+    {
+      "name": "DarkCyanStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 844,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 845,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkBrownStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 846,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 847,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkGreenStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 848,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkLightBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 849,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkLightGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 850,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkLimeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 851,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkMagentaStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 852,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkOrangeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 853,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkPinkStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 854,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkPurpleStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 855,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkRedStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 856,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkWhiteStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 857,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_white_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkYellowStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 858,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 859,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestBrownStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 860,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestCyanStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 861,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 862,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestGreenStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 863,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestLightBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 864,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestLightGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 865,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestLimeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 866,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestMagentaStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 867,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestOrangeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 868,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestPinkStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 869,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestPurpleStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 870,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestRedStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 871,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestWhiteStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 872,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_white_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkestYellowStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 873,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestBlackStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 874,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_black_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 875,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestBrownStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 876,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestCyanStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 877,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 878,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestGreenStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 879,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestLightBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 880,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestLightGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 881,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestLimeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 882,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestMagentaStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 883,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestOrangeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 884,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestPinkStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 885,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestPurpleStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 886,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestRedStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 887,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_stained_glass_from_dye"
+    },
+    {
+      "name": "LightestYellowStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 888,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelBlackStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 889,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_black_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 890,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelBrownStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 891,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelCyanStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 892,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 893,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelGreenStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 894,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelLightBlueStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 895,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelLightGrayStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 896,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelLimeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 897,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelMagentaStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 898,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelOrangeStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 899,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelPinkStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 900,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelPurpleStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 901,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelRedStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 902,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_stained_glass_from_dye"
+    },
+    {
+      "name": "PastelYellowStainedGlassFromDye",
+      "type": "recipe",
+      "sortid": 903,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_stained_glass_from_dye"
+    },
+    {
+      "name": "DarkBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 904,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkBrownStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 905,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkCyanStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 906,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 907,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkGreenStainedGlassPanelFromDye",
+      "type": "recipe",
+      "sortid": 908,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_stained_glass_panel_from_dye"
+    },
+    {
+      "name": "DarkLightBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 909,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkLightGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 910,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkLimeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 911,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkMagentaStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 912,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkOrangeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 913,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkPinkStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 914,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkPurpleStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 915,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkRedStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 916,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkWhiteStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 917,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_white_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkYellowStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 918,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 919,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestBrownStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 920,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestCyanStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 921,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 922,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestGreenStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 923,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestLightBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 924,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestLightGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 925,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestLimeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 926,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestMagentaStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 927,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestOrangeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 928,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestPinkStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 929,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestPurpleStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 930,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestRedStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 931,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestWhiteStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 932,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_white_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkestYellowStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 933,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestBlackStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 934,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_black_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 935,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestBrownStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 936,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestCyanStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 937,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 938,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestGreenStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 939,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestLightBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 940,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestLightGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 941,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestLimeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 942,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestMagentaStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 943,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestOrangeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 944,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestPinkStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 945,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestPurpleStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 946,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestRedStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 947,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "LightestYellowStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 948,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelBlackStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 949,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_black_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 950,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelBrownStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 951,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelCyanStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 952,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 953,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelGreenStainedGlassPanelFromDye",
+      "type": "recipe",
+      "sortid": 954,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_stained_glass_panel_from_dye"
+    },
+    {
+      "name": "PastelLightBlueStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 955,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelLightGrayStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 956,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelLimeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 957,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelMagentaStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 958,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelOrangeStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 959,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelPinkStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 960,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelPurpleStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 961,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelRedStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 962,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "PastelYellowStainedGlassPaneFromDye",
+      "type": "recipe",
+      "sortid": 963,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_stained_glass_pane_from_dye"
+    },
+    {
+      "name": "DarkBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 964,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkBrownStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 965,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_brown_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkCyanStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 966,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_cyan_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkGreenStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 967,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_green_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkLightBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 968,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkLightGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 970,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_light_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkLimeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 971,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_lime_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkMagentaStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 972,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_magenta_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkOrangeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 973,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_orange_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkPinkStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 974,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_pink_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkPurpleStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 975,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_purple_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkRedStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 976,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_red_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkWhiteStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 977,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_white_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkYellowStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 978,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_yellow_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 979,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestBrownStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 980,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_brown_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestCyanStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 981,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_cyan_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 982,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestGreenStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 983,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_green_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestLightBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 984,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestLightGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 985,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_light_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestLimeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 986,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_lime_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestMagentaStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 987,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_magenta_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestOrangeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 988,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_orange_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestPinkStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 989,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_pink_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestPurpleStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 990,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_purple_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestRedStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 991,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_red_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestWhiteStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 992,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_white_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "DarkestYellowStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 993,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkest_yellow_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestBlackStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 994,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_black_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 995,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestBrownStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 996,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_brown_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestCyanStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 997,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_cyan_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 998,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestGreenStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 999,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_green_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestLightBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1000,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestLightGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1001,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_light_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestLimeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1002,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_lime_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestMagentaStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1003,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_magenta_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestOrangeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1004,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_orange_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestPinkStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1005,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_pink_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestPurpleStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1006,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_purple_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestRedStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1007,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_red_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "LightestYellowStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1008,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lightest_yellow_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelBlackStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1009,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_black_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1010,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelBrownStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1011,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_brown_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelCyanStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1012,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_cyan_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1013,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelGreenStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1014,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_green_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelLightBlueStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1015,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_blue_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelLightGrayStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1016,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_light_gray_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelLimeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1017,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_lime_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelMagentaStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1018,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_magenta_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelOrangeStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1019,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_orange_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelPinkStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1020,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_pink_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelPurpleStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1021,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_purple_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelRedStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1022,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_red_stained_glass_pane_from_glass"
+    },
+    {
+      "name": "PastelYellowStainedGlassPaneFromGlass",
+      "type": "recipe",
+      "sortid": 1023,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastel_yellow_stained_glass_pane_from_glass"
     }
   ],
   "variable_elements": [],
@@ -7031,8 +8642,8 @@
       "item.cowpewter_world_of_color.pastel_yellow_dye": "Pastel Yellow Dye",
       "block.cowpewter_world_of_color.darkest_pink_concrete": "Darkest Pink Concrete",
       "block.cowpewter_world_of_color.pastel_green_concrete_powder": "Pastel Green Concrete Powder",
-      "item.cowpewter_woc.darkest_pink_dye": "Darkest Pink Dye",
       "block.cowpewter_world_of_color.dark_magenta_concrete": "Dark Magenta Concrete",
+      "item.cowpewter_woc.darkest_pink_dye": "Darkest Pink Dye",
       "item.cowpewter_world_of_color.darkest_gray_dye": "Darkest Gray Dye",
       "item.cowpewter_world_of_color.darkest_yellow_dye": "Darkest Yellow Dye",
       "block.cowpewter_woc.lightest_brown_stained_glass_pane": "Lightest Brown Stained Glass Pane",
@@ -7041,27 +8652,27 @@
       "block.cowpewter_woc.dark_gray_concrete": "Dark Gray Concrete",
       "item.cowpewter_woc.dark_cyan_dye": "Dark Cyan Dye",
       "item.cowpewter_woc.lightest_magenta_dye": "Lightest Magenta Dye",
-      "block.cowpewter_world_of_color.dark_gray_concrete": "Dark Gray Concrete",
-      "block.cowpewter_world_of_color.dark_light_blue_concrete": "Dark Light Blue Concrete",
-      "item.cowpewter_woc.lightest_black_dye": "Lightest Black Dye",
       "block.cowpewter_woc.darkest_yellow_stained_glass_pane": "Darkest Yellow Stained Glass Pane",
-      "item.cowpewter_woc.pastel_blue_dye": "Pastel Blue Dye",
+      "item.cowpewter_woc.lightest_black_dye": "Lightest Black Dye",
+      "block.cowpewter_world_of_color.dark_light_blue_concrete": "Dark Light Blue Concrete",
+      "block.cowpewter_world_of_color.dark_gray_concrete": "Dark Gray Concrete",
       "block.cowpewter_woc.lightest_purple_stained_glass_pane": "Lightest Purple Stained Glass Pane",
+      "item.cowpewter_woc.pastel_blue_dye": "Pastel Blue Dye",
       "block.cowpewter_woc.dark_blue_concrete_powder": "Dark Blue Concrete Powder",
       "block.cowpewter_woc.dark_white_stained_glass": "Dark White Stained Glass",
       "block.cowpewter_woc.dark_yellow_stained_glass_pane": "Dark Yellow Stained Glass Pane",
       "block.cowpewter_woc.dark_yellow_concrete": "Dark Yellow Concrete",
       "block.cowpewter_woc.darkest_pink_concrete": "Darkest Pink Concrete",
-      "item.cowpewter_woc.darkest_white_dye": "Darkest White Dye",
       "block.cowpewter_woc.darkest_white_stained_glass": "Darkest White Stained Glass",
-      "block.cowpewter_woc.darkest_magenta_wool": "Darkest Magenta Wool",
+      "item.cowpewter_woc.darkest_white_dye": "Darkest White Dye",
       "block.cowpewter_woc.pastel_brown_stained_glass": "Pastel Brown Stained Glass",
+      "block.cowpewter_woc.darkest_magenta_wool": "Darkest Magenta Wool",
       "block.cowpewter_woc.dark_magenta_concrete": "Dark Magenta Concrete",
       "block.cowpewter_woc.pastel_black_concrete": "Pastel Black Concrete",
       "item.cowpewter_woc.darkest_yellow_dye": "Darkest Yellow Dye",
       "block.cowpewter_world_of_color.pastel_brown_concrete_powder": "Pastel Brown Concrete Powder",
-      "block.cowpewter_woc.dark_red_concrete_powder": "Dark Red Concrete Powder",
       "block.cowpewter_world_of_color.dark_light_blue_concrete_powder": "Dark Light Blue Concrete Powder",
+      "block.cowpewter_woc.dark_red_concrete_powder": "Dark Red Concrete Powder",
       "block.cowpewter_world_of_color.pastel_lime_concrete": "Pastel Lime Concrete",
       "block.cowpewter_woc.dark_lime_stained_glass": "Dark Lime Stained Glass",
       "item.cowpewter_woc.dark_purple_dye": "Dark Purple Dye",
@@ -7075,8 +8686,8 @@
       "item.cowpewter_woc.dark_green_dye": "Dark Green Dye",
       "block.cowpewter_world_of_color.dark_blue_concrete_powder": "Dark Blue Concrete Powder",
       "block.cowpewter_world_of_color.pastel_cyan_concrete": "Pastel Cyan Concrete",
-      "block.cowpewter_woc.darkest_yellow_wool": "Darkest Yellow Wool",
       "item.cowpewter_woc.pastel_lime_dye": "Pastel Lime Dye",
+      "block.cowpewter_woc.darkest_yellow_wool": "Darkest Yellow Wool",
       "block.cowpewter_world_of_color.pastel_black_concrete": "Pastel Black Concrete",
       "block.cowpewter_woc.pastel_black_concrete_powder": "Pastel Black Concrete Powder",
       "block.cowpewter_woc.pastel_yellow_concrete": "Pastel Yellow Concrete",
@@ -7087,8 +8698,8 @@
       "block.cowpewter_world_of_color.dark_purple_concrete_powder": "Dark Purple Concrete Powder",
       "block.cowpewter_woc.dark_yellow_wool": "Dark Yellow Wool",
       "block.cowpewter_woc.darkest_light_gray_concrete": "Darkest Light Gray Concrete",
-      "block.cowpewter_world_of_color.pastel_light_gray_concrete": "Pastel Light Gray Concrete",
       "item.cowpewter_world_of_color.dark_brown_dye": "Dark Brown Dye",
+      "block.cowpewter_world_of_color.pastel_light_gray_concrete": "Pastel Light Gray Concrete",
       "block.cowpewter_woc.darkest_cyan_concrete_powder": "Darkest Cyan Concrete Powder",
       "block.cowpewter_woc.pastel_pink_stained_glass": "Pastel Pink Stained Glass",
       "block.cowpewter_woc.lightest_light_blue_stained_glass_pane": "Lightest Light Blue Stained Glass Pane",
@@ -7099,9 +8710,9 @@
       "block.cowpewter_world_of_color.pastel_green_concrete": "Pastel Green Concrete",
       "block.cowpewter_woc.pastel_gray_concrete_powder": "Pastel Gray Concrete Powder",
       "block.cowpewter_woc.darkest_light_gray_wool": "Darkest Light Gray Wool",
-      "block.cowpewter_woc.dark_brown_wool": "Dark Brown Wool",
-      "item.cowpewter_woc.pastel_cyan_dye": "Pastel Cyan Dye",
       "block.cowpewter_world_of_color.lightest_cyan_concrete_powder": "Lightest Cyan Concrete Powder",
+      "item.cowpewter_woc.pastel_cyan_dye": "Pastel Cyan Dye",
+      "block.cowpewter_woc.dark_brown_wool": "Dark Brown Wool",
       "item.cowpewter_world_of_color.dark_blue_dye": "Dark Blue Dye",
       "item.cowpewter_woc.pastel_purple_dye": "Pastel Purple Dye",
       "block.cowpewter_woc.dark_magenta_wool": "Dark Magenta Wool",
@@ -7121,8 +8732,8 @@
       "block.cowpewter_woc.dark_light_gray_concrete": "Dark Light Gray Concrete",
       "block.cowpewter_woc.darkest_lime_wool": "Darkest Lime Wool",
       "block.cowpewter_woc.lightest_orange_stained_glass": "Lightest Orange Stained Glass",
-      "block.cowpewter_world_of_color.lightest_pink_concrete": "Lightest Pink Concrete",
       "block.cowpewter_woc.dark_green_stained_glass": "Dark Green Stained Glass",
+      "block.cowpewter_world_of_color.lightest_pink_concrete": "Lightest Pink Concrete",
       "item.cowpewter_world_of_color.dark_red_dye": "Dark Red Dye",
       "block.cowpewter_world_of_color.lightest_light_gray_concrete": "Lightest Light Gray Concrete",
       "item.cowpewter_world_of_color.lightest_gray_dye": "Lightest Gray Dye",
@@ -7140,8 +8751,8 @@
       "block.cowpewter_world_of_color.pastel_purple_concrete": "Pastel Purple Concrete",
       "block.cowpewter_world_of_color.dark_white_concrete_powder": "Dark White Concrete Powder",
       "block.cowpewter_woc.pastel_red_stained_glass": "Pastel Red Stained Glass",
-      "block.cowpewter_woc.pastel_red_wool": "Pastel Red Wool",
       "block.cowpewter_woc.lightest_light_blue_stained_glass": "Lightest Light Blue Stained Glass",
+      "block.cowpewter_woc.pastel_red_wool": "Pastel Red Wool",
       "block.cowpewter_woc.lightest_purple_concrete": "Lightest Purple Concrete",
       "item.cowpewter_world_of_color.dark_lime_dye": "Dark Lime Dye",
       "block.cowpewter_woc.pastel_black_wool": "Pastel Black Wool",
@@ -7224,7 +8835,7 @@
       "item.cowpewter_woc.dark_red_dye": "Dark Red Dye",
       "block.cowpewter_woc.darkest_gray_concrete_powder": "Darkest Gray Concrete Powder",
       "item.cowpewter_world_of_color.darkest_cyan_dye": "Darkest Cyan Dye",
-      "block.cowpewter_woc.pastel_yellow_stained_glass_pane": "Pastel Yellow Stained Glass",
+      "block.cowpewter_woc.pastel_yellow_stained_glass_pane": "Pastel Yellow Stained Glass Pane",
       "block.cowpewter_woc.lightest_yellow_stained_glass": "Lightest Yellow Stained Glass",
       "item.cowpewter_woc.darkest_orange_dye": "Darkest Orange Dye",
       "item.cowpewter_woc.darkest_lime_dye": "Darkest Lime Dye",
@@ -7245,7 +8856,7 @@
       "item.cowpewter_world_of_color.pastel_gray_dye": "Pastel Gray Dye",
       "item.cowpewter_woc.darkest_cyan_dye": "Darkest Cyan Dye",
       "item.cowpewter_world_of_color.darkest_lime_dye": "Darkest Lime Dye",
-      "block.cowpewter_woc.lightest_gray_stained_glass_pane": "Lightest Gray Stained Glass",
+      "block.cowpewter_woc.lightest_gray_stained_glass_pane": "Lightest Gray Stained Glass Pane",
       "block.cowpewter_woc.lightest_blue_concrete_powder": "Lightest Blue Concrete Powder",
       "block.cowpewter_woc.lightest_lime_stained_glass_pane": "Lightest Lime Stained Glass Pane",
       "block.cowpewter_woc.lightest_magenta_stained_glass_pane": "Lightest Magenta Stained Glass Pane",
