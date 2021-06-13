@@ -1,0 +1,16 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:darkest_blue_dye"
+    },
+    {
+      "item": "minecraft:white_wool"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:darkest_blue_wool",
+    "count": 1
+  }
+}

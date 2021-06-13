@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worldofcolor:blocks/concrete_magenta_dark",
+    "up": "worldofcolor:blocks/concrete_magenta_dark",
+    "north": "worldofcolor:blocks/concrete_magenta_dark",
+    "east": "worldofcolor:blocks/concrete_magenta_dark",
+    "south": "worldofcolor:blocks/concrete_magenta_dark",
+    "west": "worldofcolor:blocks/concrete_magenta_dark",
+    "particle": "worldofcolor:blocks/concrete_magenta_dark"
+  }
+}

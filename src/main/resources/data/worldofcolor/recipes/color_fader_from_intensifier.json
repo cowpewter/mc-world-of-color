@@ -1,0 +1,16 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:color_fader",
+    "count": 2
+  }
+}

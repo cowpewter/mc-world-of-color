@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worldofcolor:blocks/wool_blue_darkest",
+    "up": "worldofcolor:blocks/wool_blue_darkest",
+    "north": "worldofcolor:blocks/wool_blue_darkest",
+    "east": "worldofcolor:blocks/wool_blue_darkest",
+    "south": "worldofcolor:blocks/wool_blue_darkest",
+    "west": "worldofcolor:blocks/wool_blue_darkest",
+    "particle": "worldofcolor:blocks/wool_blue_darkest"
+  }
+}

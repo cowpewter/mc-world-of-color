@@ -1,0 +1,19 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:dark_cyan_dye"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:pastel_cyan_dye",
+    "count": 3
+  }
+}

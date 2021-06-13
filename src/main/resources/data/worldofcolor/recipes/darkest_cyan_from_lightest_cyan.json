@@ -1,0 +1,25 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:lightest_cyan_dye"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:darkest_cyan_dye",
+    "count": 5
+  }
+}

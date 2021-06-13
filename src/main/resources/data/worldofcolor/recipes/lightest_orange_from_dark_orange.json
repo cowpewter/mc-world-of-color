@@ -1,0 +1,22 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:dark_orange_dye"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:lightest_orange_dye",
+    "count": 4
+  }
+}

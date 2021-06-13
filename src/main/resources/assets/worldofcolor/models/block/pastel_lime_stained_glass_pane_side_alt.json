@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "worldofcolor:blocks/stained_glass_pane_top_lime_pastel",
+    "pane": "worldofcolor:blocks/stained_glass_lime_pastel"
+  }
+}

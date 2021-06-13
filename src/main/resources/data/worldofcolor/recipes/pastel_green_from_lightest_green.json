@@ -1,0 +1,16 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:lightest_green_dye"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:pastel_green_dye",
+    "count": 2
+  }
+}

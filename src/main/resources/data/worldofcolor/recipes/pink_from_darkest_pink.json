@@ -1,0 +1,19 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:darkest_pink_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 3
+  }
+}

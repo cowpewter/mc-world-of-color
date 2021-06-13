@@ -1,0 +1,25 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:darkest_purple_dye"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:lightest_purple_dye",
+    "count": 5
+  }
+}

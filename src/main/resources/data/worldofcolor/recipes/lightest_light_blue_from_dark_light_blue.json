@@ -1,0 +1,22 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:color_fader"
+    },
+    {
+      "item": "worldofcolor:dark_light_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:lightest_light_blue_dye",
+    "count": 4
+  }
+}

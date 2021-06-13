@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worldofcolor:blocks/stained_glass_magenta_pastel",
+    "up": "worldofcolor:blocks/stained_glass_magenta_pastel",
+    "north": "worldofcolor:blocks/stained_glass_magenta_pastel",
+    "east": "worldofcolor:blocks/stained_glass_magenta_pastel",
+    "south": "worldofcolor:blocks/stained_glass_magenta_pastel",
+    "west": "worldofcolor:blocks/stained_glass_magenta_pastel",
+    "particle": "worldofcolor:blocks/stained_glass_magenta_pastel"
+  }
+}

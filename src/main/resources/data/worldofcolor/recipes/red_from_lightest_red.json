@@ -1,0 +1,23 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "worldofcolor:color_intensifier"
+    },
+    "2": {
+      "item": "worldofcolor:color_intensifier"
+    },
+    "4": {
+      "item": "worldofcolor:lightest_red_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worldofcolor:blocks/stained_glass_black_lightest",
+    "up": "worldofcolor:blocks/stained_glass_black_lightest",
+    "north": "worldofcolor:blocks/stained_glass_black_lightest",
+    "east": "worldofcolor:blocks/stained_glass_black_lightest",
+    "south": "worldofcolor:blocks/stained_glass_black_lightest",
+    "west": "worldofcolor:blocks/stained_glass_black_lightest",
+    "particle": "worldofcolor:blocks/stained_glass_black_lightest"
+  }
+}

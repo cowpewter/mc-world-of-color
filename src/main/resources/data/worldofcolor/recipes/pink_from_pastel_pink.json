@@ -1,0 +1,16 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:pastel_pink_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_dye",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "worldofcolor:blocks/stained_glass_purple_dark"
+  }
+}

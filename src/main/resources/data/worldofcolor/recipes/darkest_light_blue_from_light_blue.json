@@ -1,0 +1,19 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:darkest_light_blue_dye",
+    "count": 3
+  }
+}

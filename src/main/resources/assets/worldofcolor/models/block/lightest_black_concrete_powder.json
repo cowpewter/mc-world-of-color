@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worldofcolor:blocks/concrete_powder_black_lightest",
+    "up": "worldofcolor:blocks/concrete_powder_black_lightest",
+    "north": "worldofcolor:blocks/concrete_powder_black_lightest",
+    "east": "worldofcolor:blocks/concrete_powder_black_lightest",
+    "south": "worldofcolor:blocks/concrete_powder_black_lightest",
+    "west": "worldofcolor:blocks/concrete_powder_black_lightest",
+    "particle": "worldofcolor:blocks/concrete_powder_black_lightest"
+  }
+}

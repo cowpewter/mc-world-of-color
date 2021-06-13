@@ -1,0 +1,22 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:color_intensifier"
+    },
+    {
+      "item": "worldofcolor:pastel_light_gray_dye"
+    }
+  ],
+  "result": {
+    "item": "worldofcolor:darkest_light_gray_dye",
+    "count": 4
+  }
+}

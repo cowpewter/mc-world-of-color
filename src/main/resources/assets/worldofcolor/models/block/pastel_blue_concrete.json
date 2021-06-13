@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "worldofcolor:blocks/concrete_blue_pastel",
+    "up": "worldofcolor:blocks/concrete_blue_pastel",
+    "north": "worldofcolor:blocks/concrete_blue_pastel",
+    "east": "worldofcolor:blocks/concrete_blue_pastel",
+    "south": "worldofcolor:blocks/concrete_blue_pastel",
+    "west": "worldofcolor:blocks/concrete_blue_pastel",
+    "particle": "worldofcolor:blocks/concrete_blue_pastel"
+  }
+}

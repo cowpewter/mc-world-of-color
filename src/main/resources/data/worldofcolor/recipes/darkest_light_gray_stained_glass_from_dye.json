@@ -1,0 +1,42 @@
+{
+  "group": "worldofcolor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "1": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "3": {
+      "item": "minecraft:glass"
+    },
+    "4": {
+      "item": "worldofcolor:darkest_light_gray_dye"
+    },
+    "5": {
+      "item": "minecraft:glass"
+    },
+    "6": {
+      "item": "minecraft:glass"
+    },
+    "7": {
+      "item": "minecraft:glass"
+    },
+    "8": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "worldofcolor:darkest_light_gray_stained_glass",
+    "count": 8
+  }
+}
