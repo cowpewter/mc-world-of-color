@@ -9,9 +9,11 @@ public class NamedBlock extends Block implements INamedBlock {
 
   protected Item.Properties itemProps = new Item.Properties();
   protected Boolean hasItem = false;
+  protected String name = "";
 
   NamedBlock(String name, AbstractBlock.Properties props) {
 		super(props);
+    this.name = name;
 		this.setRegistryName(WorldOfColor.ID, name);
 	}
 
@@ -27,5 +29,9 @@ public class NamedBlock extends Block implements INamedBlock {
 
   public Item.Properties getItemProperties() {
     return this.itemProps;
+  }
+
+  public String getNameForBlockItem() {
+    return this.name;
   }
 }

@@ -12,10 +12,11 @@ public class Blocks {
     ArrayList<INamedBlock> blockList = new ArrayList<INamedBlock>();
 
     // Concrete
-    blockList.addAll(Concrete.generateAllColors());
+    ArrayList<INamedBlock> concreteBlocks = Concrete.generateAllColors();
+    blockList.addAll(concreteBlocks);
 
     // Concrete Powder
-    blockList.addAll(ConcretePowder.generateAllColors());
+    blockList.addAll(ConcretePowder.generateAllColors(concreteBlocks));
 
     // Wool
     blockList.addAll(Wool.generateAllColors());

@@ -8,4 +8,5 @@ public interface INamedBlock extends IForgeBlock, IItemProvider {
   public Boolean hasItem();
   public INamedBlock setItemProperties(Item.Properties itemProps);
   public Item.Properties getItemProperties();
+  public String getNameForBlockItem();
 }

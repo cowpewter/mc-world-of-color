@@ -3,6 +3,9 @@ package com.cowpewter.worldofcolor.common.utils;
 import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.stream.Stream;
+
+import com.cowpewter.worldofcolor.WorldOfColor;
+
 import net.minecraft.item.DyeColor;
 import net.minecraft.block.material.MaterialColor;
 
@@ -41,6 +44,10 @@ public class Color {
     return Stream
       .concat(vanillaColorList.stream(), Arrays.stream(newColors))
       .toArray(String[]::new);
+  }
+
+  public static String getColorNameFromRegistryName(String regName, String typeName) {
+    return regName.replace(WorldOfColor.ID + ":", "").replace("_" + typeName, "");
   }
 
   public static MaterialColor getMaterialForColor(String fullColorName) {
