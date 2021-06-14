@@ -5,10 +5,12 @@ import com.cowpewter.worldofcolor.common.utils.Color;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.ConcretePowderBlock;
+import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
+import net.minecraftforge.common.ToolType;
 
 import java.util.ArrayList;
 
@@ -52,10 +54,19 @@ public class ConcretePowder extends ConcretePowderBlock implements INamedBlock {
       blocks.add(new ConcretePowder(
         color + "_concrete_powder",
         block,
-        AbstractBlock.Properties.of(Material.SAND, materialColor)
+        ConcretePowder.createBlockProps(materialColor)
       ));
     }
 
     return blocks;
+  }
+
+  private static AbstractBlock.Properties createBlockProps(MaterialColor color) {
+    return AbstractBlock.Properties
+      .of(Material.SAND, color)
+      .harvestTool(ToolType.SHOVEL)
+      .harvestLevel(0)
+      .strength(0.5F, 0.5F)
+      .sound(SoundType.SAND);
   }
 }

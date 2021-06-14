@@ -1,5 +1,40 @@
-# cowpewter-woc: World of Color! (for Minecraft Forge)
-A Minecraft mod that adds 60 new colors of dye, as well as new options for coloring blocks.
+# World of Color! (for Minecraft Forge)
+A Minecraft mod that adds 60 new colors of dye. These dyes can be used in all the normal ways that dye is used in Minecraft. 14 of the 16 default Minecraft colors now come in four additional shades (Lightest/Pastel/Dark/Darkest), in addition to the default vanilla shade. White and Black each come with two new shades, darker versions for White and lighter versions for Black.
+
+This results in a total of 76 different dye colors!
+
+## Features (Version 0.0.1)
+
+### Currently supported features:
+* Concrete & Concrete Powder
+* Wool
+* Stained Glass & Stained Glass Panes
+
+### Up next:
+* Terracotta
+
+### Planned for the future:
+* Beds
+* Dyed Clay Blocks/Brick
+* Stains - will color wood planks with an overlay
+* Paint - will color wood planks with a solid color
+* Dying sheep
+
+
+### Considering for the future:
+* Concrete slabs/stairs in all 76 colors
+* Terracotta slabs/stairs in all 76 colors
+* Sand/Sandstone (reg/cut/chiseled/slabs/stairs) in all 76 colors
+* Candles
+* Pet Collars
+* Fireworks
+* Banners
+* Shulker Boxes
+
+### Not planning to support at this time:
+* Leather Armor/any dying that uses two dyes to create a mixed color outside of the default 16 Minecraft colors
+* Sign Text Color
+
 
 ## About
 ### New Dyes!
@@ -15,19 +50,23 @@ Make the new Color Intensifier and Color Fader dyes to darken or lighten your dy
 ![ColorFaderFromCYM](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ColorFaderFromCYM.png)
 
 ## New Blocks
+The center row in each of these screenshots is vanilla blocks.
+Screenshots were taken at noon in-game, with no shaders.
+
 ### Concrete and Concrete Powder
-![ConcretePowder](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ConcretePowder.png)
-![Concrete](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Concrete.png)
+![ConcretePowder](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ConcretePowders.png)
+![Concrete](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Concretes.png)
 
 ## Wool
+![Wool](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Wools.png)
 
 
 ## FAQ
 
 > What modloaders is this mod available for?
->> Currently, only Forge. I want to fully expand this mod for Forge before I even consider Fabric
+>> Forge. I want to fully expand this mod for Forge before I could even consider learning Fabric.
 
 > What Minecraft versions is this mod available for?
->> Currently, 1.16.5. I want to wait and see if 1.18 becomes the new popular modding platform after it comes out before I start porting it to other versions.
+>> 1.16.5
 
 

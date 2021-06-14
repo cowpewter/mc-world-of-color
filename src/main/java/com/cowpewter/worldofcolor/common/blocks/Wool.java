@@ -2,6 +2,7 @@ package com.cowpewter.worldofcolor.common.blocks;
 
 import com.cowpewter.worldofcolor.common.utils.Color;
 import net.minecraft.block.AbstractBlock;
+import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.Item;
@@ -10,7 +11,7 @@ import java.util.ArrayList;
 
 public class Wool extends NamedBlock {
   public Wool(String name, MaterialColor color) {
-    super(name, AbstractBlock.Properties.of(Material.WOOL, color));
+    super(name, Wool.createBlockProps(color));
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
   }
 
@@ -23,5 +24,12 @@ public class Wool extends NamedBlock {
     }
 
     return blocks;
+  }
+
+  protected static AbstractBlock.Properties createBlockProps(MaterialColor color) {
+    return AbstractBlock.Properties
+      .of(Material.WOOL, color)
+      .strength(0.8F, 0.8F)
+      .sound(SoundType.WOOL);
   }
 }
