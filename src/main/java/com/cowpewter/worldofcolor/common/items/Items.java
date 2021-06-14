@@ -1,19 +1,21 @@
 package com.cowpewter.worldofcolor.common.items;
 
+import java.util.ArrayList;
+
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 
 public class Items {
-  public static final NamedItem[] ITEMS = {
-    // Dye Modifiers
-    new NamedItem("color_intensifier", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)),
-    new NamedItem("color_fader", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)),
+  public static NamedItem[] getItems() {
+    ArrayList<NamedItem> itemList = new ArrayList<NamedItem>();
 
-    // Dyes
-    // Red
-    new NamedItem("lightest_red_dye", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)),
-    new NamedItem("pastel_red_dye", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)),
-    new NamedItem("dark_red_dye", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)),
-    new NamedItem("darkest_red_dye", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)),
-  };
+    // Dye Modifiers
+    itemList.add(new NamedItem("color_intensifier", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)));
+    itemList.add(new NamedItem("color_fader", new Item.Properties().tab(ItemGroup.TAB_MATERIALS)));
+
+    //Dyes
+    itemList.addAll(Dye.generateAllColors());
+
+    return itemList.stream().toArray(NamedItem[]::new);
+  }
 }

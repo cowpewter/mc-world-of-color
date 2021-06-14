@@ -5,21 +5,27 @@ import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 
-public class NamedBlock extends Block {
+public class NamedBlock extends Block implements INamedBlock {
 
-  public Item.Properties itemProps;
-  public Boolean hasItem = false;
+  protected Item.Properties itemProps = new Item.Properties();
+  protected Boolean hasItem = false;
 
-  NamedBlock(String name, AbstractBlock.Properties props)
-	{
+  NamedBlock(String name, AbstractBlock.Properties props) {
 		super(props);
 		this.setRegistryName(WorldOfColor.ID, name);
 	}
 
-  public NamedBlock setItemProperties(Item.Properties itemProps)
-  {
+  public Boolean hasItem() {
+    return this.hasItem;
+  }
+
+  public INamedBlock setItemProperties(Item.Properties itemProps) {
     this.hasItem = true;
     this.itemProps = itemProps;
     return this;
+  }
+
+  public Item.Properties getItemProperties() {
+    return this.itemProps;
   }
 }

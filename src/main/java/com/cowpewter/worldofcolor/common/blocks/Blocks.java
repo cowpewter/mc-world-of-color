@@ -1,19 +1,27 @@
 package com.cowpewter.worldofcolor.common.blocks;
 
-import net.minecraft.block.material.MaterialColor;
+import java.util.ArrayList;
 
 public class Blocks {
-  public static final NamedBlock[] BLOCKS = {
-    /* Concrete */
-    // Red
-    new Concrete("lightest_red_concrete", MaterialColor.COLOR_RED),
-    new Concrete("pastel_red_concrete", MaterialColor.COLOR_RED),
-    new Concrete("dark_red_concrete", MaterialColor.COLOR_RED),
-    new Concrete("darkest_red_concrete", MaterialColor.COLOR_RED),
-    // Orange
-    new Concrete("lightest_orange_concrete", MaterialColor.COLOR_ORANGE),
-    new Concrete("pastel_orange_concrete", MaterialColor.COLOR_ORANGE),
-    new Concrete("dark_orange_concrete", MaterialColor.COLOR_ORANGE),
-    new Concrete("darkest_orange_concrete", MaterialColor.COLOR_ORANGE),
-  };
+  /**
+   * Blocks that have no dependencies, they just need to exist
+   *
+   * @return ArrayList<INamedBlock>
+   */
+  public static INamedBlock[] getBlocks() {
+    ArrayList<INamedBlock> blockList = new ArrayList<INamedBlock>();
+
+    // Concrete
+    blockList.addAll(Concrete.generateAllColors());
+
+    // Concrete Powder
+    blockList.addAll(ConcretePowder.generateAllColors());
+
+    // Wool
+    blockList.addAll(Wool.generateAllColors());
+
+    // TODO everything else
+
+    return blockList.stream().toArray(INamedBlock[]::new);
+  }
 }

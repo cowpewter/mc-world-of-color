@@ -6,12 +6,11 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-
 import java.util.ArrayList;
 
-public class Concrete extends NamedBlock {
-  public Concrete(String name, MaterialColor color) {
-    super(name, AbstractBlock.Properties.of(Material.STONE, color));
+public class Wool extends NamedBlock {
+  public Wool(String name, MaterialColor color) {
+    super(name, AbstractBlock.Properties.of(Material.WOOL, color));
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
   }
 
@@ -20,7 +19,7 @@ public class Concrete extends NamedBlock {
 
     String[] allColors = Color.getAllNewColorNames();
     for (String color : allColors) {
-      blocks.add(new Concrete(color + "_concrete", Color.getMaterialForColor(color)));
+      blocks.add(new Wool(color + "_wool", Color.getMaterialForColor(color)));
     }
 
     return blocks;

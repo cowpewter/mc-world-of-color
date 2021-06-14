@@ -1,15 +1,17 @@
 package com.cowpewter.worldofcolor;
 
+import java.util.stream.Stream;
+
 import com.cowpewter.worldofcolor.common.blocks.Blocks;
-import com.cowpewter.worldofcolor.common.blocks.NamedBlock;
+import com.cowpewter.worldofcolor.common.blocks.INamedBlock;
 import com.cowpewter.worldofcolor.common.items.Items;
 import net.minecraft.block.Block;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
-// import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
+import net.minecraftforge.registries.ForgeRegistries;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -21,30 +23,41 @@ public class WorldOfColor
   public static final String ID = "worldofcolor";
 
   // Directly reference a log4j logger.
-  private static final Logger LOGGER = LogManager.getLogger();
+  public static final Logger LOGGER = LogManager.getLogger();
 
   public WorldOfColor()
   {
-    // Register ourselves for server and other game events we are interested in
-    // MinecraftForge.EVENT_BUS.register(WorldOfColor.class);
     LOGGER.info("World of Color: Starting");
   }
 
   @SubscribeEvent
 	public static void registerBlocks(RegistryEvent.Register<Block> event) {
-    LOGGER.info("World of Color: Register blocks called!");
-		event.getRegistry().registerAll(Blocks.BLOCKS);
-		LOGGER.info("World of Color: Registered blocks");
+    // Casting INamedBlock[] to Block[] doesn't work so well
+    // but casting INamedBlock to Block is fine?
+    // So a loop it is I guess
+    for (INamedBlock namedBlock : Blocks.getBlocks()) {
+      Block block = (Block)namedBlock;
+      LOGGER.info("Registering " + block.getRegistryName().toString());
+      event.getRegistry().register(block);
+    }
+    LOGGER.info("World of Color: Registered blocks");
 	}
 
   @SubscribeEvent
 	public static void registerItems(RegistryEvent.Register<Item> event) {	
-		event.getRegistry().registerAll(Items.ITEMS);
+    // Now we can register items
+		event.getRegistry().registerAll(Items.getItems());
     LOGGER.info("World of Color: Registered Items");
 
-    for (NamedBlock block : Blocks.BLOCKS) {
-      if (block.hasItem) {
-        event.getRegistry().register(new BlockItem(block, block.itemProps).setRegistryName(block.getRegistryName()));
+    // Then we gotta go register all the BlockItems
+    INamedBlock[] allBlocks = Stream
+      .concat(Stream.of(Blocks.getBlocks()), Stream.of(Blocks.getDependentBlocks()))
+      .toArray(INamedBlock[]::new);
+
+    for (INamedBlock namedBlock : allBlocks) {
+      Block block = (Block)namedBlock;
+      if (namedBlock.hasItem()) {
+        event.getRegistry().register(new BlockItem(block, namedBlock.getItemProperties()).setRegistryName(block.getRegistryName()));
       }
 		}
 		LOGGER.info("World of Color: Registered BlockItems");
