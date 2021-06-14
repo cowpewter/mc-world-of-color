@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_post",
   "textures": {
-    "edge": "worldofcolor:blocks/stained_glass_pane_top_yellow_lightest",
-    "pane": "worldofcolor:blocks/stained_glass_yellow_lightest"
+    "edge": "worldofcolor:blocks/lightest_yellow_stained_glass_pane_top",
+    "pane": "worldofcolor:blocks/lightest_yellow_stained_glass"
   }
 }

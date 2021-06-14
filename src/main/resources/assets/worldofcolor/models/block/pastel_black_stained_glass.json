@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "worldofcolor:blocks/stained_glass_black_pastel",
-    "up": "worldofcolor:blocks/stained_glass_black_pastel",
-    "north": "worldofcolor:blocks/stained_glass_black_pastel",
-    "east": "worldofcolor:blocks/stained_glass_black_pastel",
-    "south": "worldofcolor:blocks/stained_glass_black_pastel",
-    "west": "worldofcolor:blocks/stained_glass_black_pastel",
-    "particle": "worldofcolor:blocks/stained_glass_black_pastel"
+    "down": "worldofcolor:blocks/pastel_black_stained_glass",
+    "up": "worldofcolor:blocks/pastel_black_stained_glass",
+    "north": "worldofcolor:blocks/pastel_black_stained_glass",
+    "east": "worldofcolor:blocks/pastel_black_stained_glass",
+    "south": "worldofcolor:blocks/pastel_black_stained_glass",
+    "west": "worldofcolor:blocks/pastel_black_stained_glass",
+    "particle": "worldofcolor:blocks/pastel_black_stained_glass"
   }
 }

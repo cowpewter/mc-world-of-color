@@ -1,6 +1,6 @@
 {
   "parent": "block/template_glass_pane_noside",
   "textures": {
-    "pane": "worldofcolor:blocks/stained_glass_yellow_lightest"
+    "pane": "worldofcolor:blocks/lightest_yellow_stained_glass"
   }
 }

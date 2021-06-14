@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_side_alt",
   "textures": {
-    "edge": "worldofcolor:blocks/stained_glass_pane_top_red_dark",
-    "pane": "worldofcolor:blocks/stained_glass_red_dark"
+    "edge": "worldofcolor:blocks/dark_red_stained_glass_pane_top",
+    "pane": "worldofcolor:blocks/dark_red_stained_glass"
   }
 }

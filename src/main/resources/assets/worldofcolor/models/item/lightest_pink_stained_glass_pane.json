@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "worldofcolor:blocks/stained_glass_pink_lightest"
+    "layer0": "worldofcolor:blocks/lightest_pink_stained_glass"
   }
 }

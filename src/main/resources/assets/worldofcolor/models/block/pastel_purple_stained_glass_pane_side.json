@@ -1,7 +1,7 @@
 {
   "parent": "block/template_glass_pane_side",
   "textures": {
-    "edge": "worldofcolor:blocks/stained_glass_pane_top_purple_pastel",
-    "pane": "worldofcolor:blocks/stained_glass_purple_pastel"
+    "edge": "worldofcolor:blocks/pastel_purple_stained_glass_pane_top",
+    "pane": "worldofcolor:blocks/pastel_purple_stained_glass"
   }
 }

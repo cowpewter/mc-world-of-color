@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "worldofcolor:items/dye_gray_darkest"
+    "layer0": "worldofcolor:items/darkest_gray_dye"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "worldofcolor:items/dye_blue_lightest"
+    "layer0": "worldofcolor:items/lightest_blue_dye"
   }
 }

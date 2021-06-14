@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "worldofcolor:blocks/wool_magenta_darkest",
-    "up": "worldofcolor:blocks/wool_magenta_darkest",
-    "north": "worldofcolor:blocks/wool_magenta_darkest",
-    "east": "worldofcolor:blocks/wool_magenta_darkest",
-    "south": "worldofcolor:blocks/wool_magenta_darkest",
-    "west": "worldofcolor:blocks/wool_magenta_darkest",
-    "particle": "worldofcolor:blocks/wool_magenta_darkest"
+    "down": "worldofcolor:blocks/darkest_magenta_wool",
+    "up": "worldofcolor:blocks/darkest_magenta_wool",
+    "north": "worldofcolor:blocks/darkest_magenta_wool",
+    "east": "worldofcolor:blocks/darkest_magenta_wool",
+    "south": "worldofcolor:blocks/darkest_magenta_wool",
+    "west": "worldofcolor:blocks/darkest_magenta_wool",
+    "particle": "worldofcolor:blocks/darkest_magenta_wool"
   }
 }

@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "worldofcolor:blocks/concrete_red_pastel",
-    "up": "worldofcolor:blocks/concrete_red_pastel",
-    "north": "worldofcolor:blocks/concrete_red_pastel",
-    "east": "worldofcolor:blocks/concrete_red_pastel",
-    "south": "worldofcolor:blocks/concrete_red_pastel",
-    "west": "worldofcolor:blocks/concrete_red_pastel",
-    "particle": "worldofcolor:blocks/concrete_red_pastel"
+    "down": "worldofcolor:blocks/pastel_red_concrete",
+    "up": "worldofcolor:blocks/pastel_red_concrete",
+    "north": "worldofcolor:blocks/pastel_red_concrete",
+    "east": "worldofcolor:blocks/pastel_red_concrete",
+    "south": "worldofcolor:blocks/pastel_red_concrete",
+    "west": "worldofcolor:blocks/pastel_red_concrete",
+    "particle": "worldofcolor:blocks/pastel_red_concrete"
   }
 }

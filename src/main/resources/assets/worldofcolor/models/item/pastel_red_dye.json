@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "worldofcolor:items/dye_red_pastel"
+    "layer0": "worldofcolor:items/pastel_red_dye"
   }
 }
