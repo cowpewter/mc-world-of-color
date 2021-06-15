@@ -50,7 +50,63 @@ public class Color {
     return regName.replace(WorldOfColor.ID + ":", "").replace("_" + typeName, "");
   }
 
-  public static MaterialColor getMaterialForColor(String fullColorName) {
+  public static DyeColor getDyeColorFromMaterialColor(MaterialColor materialColor) {
+    // Java won't let me use a switch here
+    // It won't let me switch on a MaterialColor and neither can I switch on the
+    // .toString() of each color unless I save all 16 to individual variables.
+    // So giant series of if statements, I guess
+    if (materialColor == MaterialColor.COLOR_RED) {
+      return DyeColor.RED;
+    }
+    if (materialColor == MaterialColor.COLOR_ORANGE) {
+      return DyeColor.ORANGE;
+    }
+    if (materialColor == MaterialColor.COLOR_YELLOW) {
+      return DyeColor.YELLOW;
+    }
+    if (materialColor == MaterialColor.COLOR_LIGHT_GREEN) {
+      return DyeColor.LIME;
+    }
+    if (materialColor == MaterialColor.COLOR_GREEN) {
+      return DyeColor.GREEN;
+    }
+    if (materialColor == MaterialColor.COLOR_LIGHT_BLUE) {
+      return DyeColor.LIGHT_BLUE;
+    }
+    if (materialColor == MaterialColor.COLOR_BLUE) {
+      return DyeColor.BLUE;
+    }
+    if (materialColor == MaterialColor.COLOR_PURPLE) {
+      return DyeColor.PURPLE;
+    }
+    if (materialColor == MaterialColor.COLOR_MAGENTA) {
+      return DyeColor.MAGENTA;
+    }
+    if (materialColor == MaterialColor.COLOR_PINK) {
+      return DyeColor.PINK;
+    }
+    if (materialColor == MaterialColor.COLOR_BROWN) {
+      return DyeColor.BROWN;
+    }
+    if (materialColor == MaterialColor.COLOR_LIGHT_GRAY) {
+      return DyeColor.LIGHT_GRAY;
+    }
+    if (materialColor == MaterialColor.COLOR_GRAY) {
+      return DyeColor.GRAY;
+    }
+    if (materialColor == MaterialColor.SNOW) {
+      return DyeColor.WHITE;
+    }
+    if (materialColor == MaterialColor.COLOR_BLACK) {
+      return DyeColor.BLACK;
+    }
+
+    // This method doesn't really need to support any other MaterialColors
+    // This util is mostly for stained glass to tint beacons
+    return DyeColor.WHITE;
+  }
+
+  public static MaterialColor getMaterialForColor(String fullColorName, Boolean isTerracotta) {
     Integer index = fullColorName.indexOf("_");
     String vanillaColor = fullColorName.substring(index+1);
     String colorName = "COLOR_" + vanillaColor.toUpperCase();

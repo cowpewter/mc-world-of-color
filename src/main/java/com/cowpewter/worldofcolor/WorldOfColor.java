@@ -1,20 +1,14 @@
 package com.cowpewter.worldofcolor;
 
-import java.util.stream.Stream;
-
 import com.cowpewter.worldofcolor.common.blocks.Blocks;
 import com.cowpewter.worldofcolor.common.blocks.INamedBlock;
-import com.cowpewter.worldofcolor.common.blocks.NamedBlock;
 import com.cowpewter.worldofcolor.common.items.Items;
 import net.minecraft.block.Block;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
-import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.common.Mod;
-import net.minecraftforge.registries.ForgeRegistries;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -29,8 +23,9 @@ public class WorldOfColor
   public static final Logger LOGGER = LogManager.getLogger();
 
   // I don't like this, but I'm having trouble
-  // with the Blocks not being found in the Registiry during
-  // the registerItems event handler
+  // with the Blocks not being found in the Registry during
+  // the registerItems event handler.
+  // Using the same instance of Block as registerBlock works around this
   private static INamedBlock[] ALL_BLOCKS = null;
 
   public WorldOfColor()
@@ -46,7 +41,7 @@ public class WorldOfColor
     WorldOfColor.ALL_BLOCKS = Blocks.getBlocks();
     for (INamedBlock namedBlock : WorldOfColor.ALL_BLOCKS) {
       Block block = (Block)namedBlock;
-      LOGGER.info("Registering " + block.getRegistryName().toString());
+      // LOGGER.info("Registering " + block.getRegistryName().toString());
       event.getRegistry().register(block);
     }
     LOGGER.info("World of Color: Registered blocks");

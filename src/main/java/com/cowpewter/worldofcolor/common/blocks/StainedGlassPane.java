@@ -3,27 +3,24 @@ package com.cowpewter.worldofcolor.common.blocks;
 import com.cowpewter.worldofcolor.WorldOfColor;
 import com.cowpewter.worldofcolor.common.utils.Color;
 import net.minecraft.block.AbstractBlock;
-import net.minecraft.block.Block;
-import net.minecraft.block.ConcretePowderBlock;
+import net.minecraft.block.PaneBlock;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-import net.minecraftforge.common.ToolType;
-
 import java.util.ArrayList;
 
-public class ConcretePowder extends ConcretePowderBlock implements INamedBlock {
+public class StainedGlassPane extends PaneBlock implements INamedBlock {
   protected Item.Properties itemProps = new Item.Properties();
   protected Boolean hasItem = false;
   protected String name = "";
 
-  public ConcretePowder(String name, Block block, AbstractBlock.Properties props) {
-    super(block, props);
+  public StainedGlassPane(String name, MaterialColor color) {
+    super(StainedGlassPane.createBlockProps(color));
     this.name = name;
     this.setRegistryName(WorldOfColor.ID, name);
-    this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
+    this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_DECORATIONS));
   }
 
   public Boolean hasItem() {
@@ -44,29 +41,33 @@ public class ConcretePowder extends ConcretePowderBlock implements INamedBlock {
     return this.name;
   }
 
-  public static ArrayList<INamedBlock> generateAllColors(ArrayList<INamedBlock> concreteBlocks) {
+  public static ArrayList<INamedBlock> generateAllColors() {
     ArrayList<INamedBlock> blocks = new ArrayList<INamedBlock>();
 
-    for (INamedBlock concrete : concreteBlocks) {
-      Block block = (Block)concrete;
-      String color = Color.getColorNameFromRegistryName(concrete.getNameForBlockItem(), "concrete");
-      MaterialColor materialColor = Color.getMaterialForColor(color, false);
-      blocks.add(new ConcretePowder(
-        color + "_concrete_powder",
-        block,
-        ConcretePowder.createBlockProps(materialColor)
-      ));
+    String[] allColors = Color.getAllNewColorNames();
+    for (String color : allColors) {
+      blocks.add(new StainedGlassPane(color + "_stained_glass_pane", Color.getMaterialForColor(color, false)));
     }
 
     return blocks;
   }
 
+  public static ArrayList<String> generateAllBlockNames() {
+    ArrayList<String> names = new ArrayList<String>();
+
+    String[] allColors = Color.getAllNewColorNames();
+    for (String color : allColors) {
+      names.add(color + "_stained_glass_pane");
+    }
+
+    return names;
+  }
+
   private static AbstractBlock.Properties createBlockProps(MaterialColor color) {
     return AbstractBlock.Properties
-      .of(Material.SAND, color)
-      .harvestTool(ToolType.SHOVEL)
-      .harvestLevel(0)
-      .strength(0.5F, 0.5F)
-      .sound(SoundType.SAND);
+      .of(Material.GLASS, color)
+      // .noDrops()  // unsure if I need this, requires in-game testing, parent class may handle this
+      .strength(0.3F, 0.3F)
+      .sound(SoundType.GLASS);
   }
 }

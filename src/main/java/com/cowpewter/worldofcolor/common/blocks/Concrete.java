@@ -8,7 +8,6 @@ import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
 import net.minecraftforge.common.ToolType;
-import java.lang.Float;
 import java.util.ArrayList;
 
 public class Concrete extends NamedBlock {
@@ -22,7 +21,7 @@ public class Concrete extends NamedBlock {
 
     String[] allColors = Color.getAllNewColorNames();
     for (String color : allColors) {
-      blocks.add(new Concrete(color + "_concrete", Color.getMaterialForColor(color)));
+      blocks.add(new Concrete(color + "_concrete", Color.getMaterialForColor(color, false)));
     }
 
     return blocks;

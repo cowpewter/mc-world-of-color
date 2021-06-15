@@ -20,7 +20,7 @@ public class Wool extends NamedBlock {
 
     String[] allColors = Color.getAllNewColorNames();
     for (String color : allColors) {
-      blocks.add(new Wool(color + "_wool", Color.getMaterialForColor(color)));
+      blocks.add(new Wool(color + "_wool", Color.getMaterialForColor(color, false)));
     }
 
     return blocks;

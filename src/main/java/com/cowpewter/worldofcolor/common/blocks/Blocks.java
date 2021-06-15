@@ -11,7 +11,7 @@ public class Blocks {
   public static INamedBlock[] getBlocks() {
     ArrayList<INamedBlock> blockList = new ArrayList<INamedBlock>();
 
-    // Concrete
+    // Concrete, which must be passed to ConcretePowder
     ArrayList<INamedBlock> concreteBlocks = Concrete.generateAllColors();
     blockList.addAll(concreteBlocks);
 
@@ -20,6 +20,12 @@ public class Blocks {
 
     // Wool
     blockList.addAll(Wool.generateAllColors());
+
+    // Stained Glass
+    blockList.addAll(StainedGlass.generateAllColors());
+
+    // Stained Glass Panes
+    blockList.addAll(StainedGlassPane.generateAllColors());
 
     // TODO everything else
 

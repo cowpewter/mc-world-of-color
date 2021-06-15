@@ -8,7 +8,7 @@ This results in a total of 76 different dye colors!
 ### Currently supported features:
 * Two new items: Color Intensifier & Color Fader
 * 60 new colorful dyes, which can be used with:
-  * Concrete Powder - with associated Concrete
+  * Concrete Powder and its associated Concrete
   * Wool
   * Stained Glass & Stained Glass Panes
 
@@ -43,7 +43,7 @@ This results in a total of 76 different dye colors!
 Shoot me an email at (TBD) or open a Github Issue with your suggestions, requests, or bugs.
 
 
-## About
+## Screenshots
 ### New Dyes!
 14 of the 16 default Minecraft colors now come in Lightest, Pastel, Dark, and Darkest variants. The other two, white and black, come with two new variants each. 74 dyes in total (including vanilla dyes).
 ![Dyes](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Dyes1.png)
@@ -60,7 +60,7 @@ Make the new Color Intensifier and Color Fader dyes to darken or lighten your dy
 The center row in each of these screenshots is vanilla blocks.
 Screenshots were taken at noon in-game, with no shaders.
 
-### Concrete and Concrete Powder
+### Concrete Powder and Concrete
 ![ConcretePowder](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ConcretePowders.png)
 ![Concrete](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Concretes.png)
 
