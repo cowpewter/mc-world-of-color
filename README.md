@@ -8,9 +8,13 @@ This results in a total of 76 different dye colors!
 ### Currently supported features:
 * Two new items: Color Intensifier & Color Fader
 * 60 new colorful dyes, which can be used with:
-  * Concrete Powder and its associated Concrete
+  * Concrete Powder (which also colors its associated Concrete)
   * Wool
   * Stained Glass & Stained Glass Panes
+
+### Caveats:
+* Beacon colors are limited, so Stained Glass will color beacons their base color, but not a different shade. IE, Light Red Stained Glass and Dark Red Stained Glass both simply color beacons Red
+* Map colors are also limited, and so blocks dyed with the new colors will appear on maps as their base color. IE, Light Red Wool would render on a map as Red (So unfortunately, the new shades are not usable in Map Art)
 
 ### Up next:
 * Regular Terracotta
