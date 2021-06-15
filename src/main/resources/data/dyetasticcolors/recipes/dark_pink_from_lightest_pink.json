@@ -1,0 +1,22 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:lightest_pink_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:dark_pink_dye",
+    "count": 4
+  }
+}

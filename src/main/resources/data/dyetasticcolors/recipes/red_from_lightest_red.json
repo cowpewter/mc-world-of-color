@@ -1,0 +1,23 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    "2": {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    "4": {
+      "item": "dyetasticcolors:lightest_red_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 1
+  }
+}

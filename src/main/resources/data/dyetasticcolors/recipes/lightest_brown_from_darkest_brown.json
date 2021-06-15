@@ -1,0 +1,25 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:darkest_brown_dye"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:lightest_brown_dye",
+    "count": 5
+  }
+}

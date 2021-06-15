@@ -1,0 +1,22 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:darkest_orange_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:pastel_orange_dye",
+    "count": 4
+  }
+}

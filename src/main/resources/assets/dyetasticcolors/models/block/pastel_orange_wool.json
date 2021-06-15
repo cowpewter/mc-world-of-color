@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/pastel_orange_wool",
+    "up": "dyetasticcolors:blocks/pastel_orange_wool",
+    "north": "dyetasticcolors:blocks/pastel_orange_wool",
+    "east": "dyetasticcolors:blocks/pastel_orange_wool",
+    "south": "dyetasticcolors:blocks/pastel_orange_wool",
+    "west": "dyetasticcolors:blocks/pastel_orange_wool",
+    "particle": "dyetasticcolors:blocks/pastel_orange_wool"
+  }
+}

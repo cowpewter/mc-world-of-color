@@ -1,4 +1,4 @@
-# World of Color! (for Minecraft Forge)
+# DyeTastic Colors! (for Minecraft Forge)
 A Minecraft mod that adds 60 new colors of dye. These goal of this mod is for all dyes to be able to be used in all the normal ways that dye is used in Minecraft. 14 of the 16 default Minecraft colors now come in four additional shades (Lightest/Pastel/Dark/Darkest), in addition to the default vanilla shade. White and Black each come with two new shades, darker versions for White and lighter versions for Black.
 
 This results in a total of 76 different dye colors!
@@ -25,6 +25,7 @@ This results in a total of 76 different dye colors!
 
 ### Considering for the future:
 * Stain/Paint wood fences/gates in addition to planks
+* Lantern colors
 * Candles
 * Glazed Terracotta
 * Concrete slabs/stairs in all 76 colors
@@ -46,26 +47,26 @@ Shoot me an email at (TBD) or open a Github Issue with your suggestions, request
 ## Screenshots
 ### New Dyes!
 14 of the 16 default Minecraft colors now come in Lightest, Pastel, Dark, and Darkest variants. The other two, white and black, come with two new variants each. 74 dyes in total (including vanilla dyes).
-![Dyes](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Dyes1.png)
-![Dyes](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Dyes2.png)
+![Dyes](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Dyes1.png)
+![Dyes](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Dyes2.png)
 
 ### Modify Dyes
 Make the new Color Intensifier and Color Fader dyes to darken or lighten your dye colors.
-![ColorIntensifierFromRGB](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ColorIntensifierFromRGB.png)
-![ColorIntensifierFromCYM](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ColorIntensifierFromCYM.png)
-![ColorFaderFromRGB](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ColorFaderFromRGB.png)
-![ColorFaderFromCYM](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ColorFaderFromCYM.png)
+![ColorIntensifierFromRGB](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorIntensifierFromRGB.png)
+![ColorIntensifierFromCYM](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorIntensifierFromCYM.png)
+![ColorFaderFromRGB](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorFaderFromRGB.png)
+![ColorFaderFromCYM](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorFaderFromCYM.png)
 
 ## New Blocks
 The center row in each of these screenshots is vanilla blocks.
 Screenshots were taken at noon in-game, with no shaders.
 
 ### Concrete Powder and Concrete
-![ConcretePowder](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/ConcretePowders.png)
-![Concrete](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Concretes.png)
+![ConcretePowder](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ConcretePowders.png)
+![Concrete](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Concretes.png)
 
 ## Wool
-![Wool](https://github.com/cowpewter/mc-world-of-color/blob/main/docs/img/Wools.png)
+![Wool](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Wools.png)
 
 
 ## FAQ

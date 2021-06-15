@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/pastel_pink_concrete",
+    "up": "dyetasticcolors:blocks/pastel_pink_concrete",
+    "north": "dyetasticcolors:blocks/pastel_pink_concrete",
+    "east": "dyetasticcolors:blocks/pastel_pink_concrete",
+    "south": "dyetasticcolors:blocks/pastel_pink_concrete",
+    "west": "dyetasticcolors:blocks/pastel_pink_concrete",
+    "particle": "dyetasticcolors:blocks/pastel_pink_concrete"
+  }
+}

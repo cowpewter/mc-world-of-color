@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/pastel_purple_concrete_powder",
+    "up": "dyetasticcolors:blocks/pastel_purple_concrete_powder",
+    "north": "dyetasticcolors:blocks/pastel_purple_concrete_powder",
+    "east": "dyetasticcolors:blocks/pastel_purple_concrete_powder",
+    "south": "dyetasticcolors:blocks/pastel_purple_concrete_powder",
+    "west": "dyetasticcolors:blocks/pastel_purple_concrete_powder",
+    "particle": "dyetasticcolors:blocks/pastel_purple_concrete_powder"
+  }
+}

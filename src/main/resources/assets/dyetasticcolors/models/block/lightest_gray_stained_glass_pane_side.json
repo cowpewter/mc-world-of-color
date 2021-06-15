@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "dyetasticcolors:blocks/lightest_gray_stained_glass_pane_top",
+    "pane": "dyetasticcolors:blocks/lightest_gray_stained_glass"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:lightest_black_dye",
+    "count": 3
+  }
+}

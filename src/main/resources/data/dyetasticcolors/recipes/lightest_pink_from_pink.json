@@ -1,0 +1,19 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:lightest_pink_dye",
+    "count": 3
+  }
+}

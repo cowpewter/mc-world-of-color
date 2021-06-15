@@ -1,0 +1,22 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:pastel_purple_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:darkest_purple_dye",
+    "count": 4
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "block/template_glass_pane_noside_alt",
-  "textures": {
-    "pane": "worldofcolor:blocks/pastel_magenta_stained_glass"
-  }
-}

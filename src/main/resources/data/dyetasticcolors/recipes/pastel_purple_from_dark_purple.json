@@ -1,0 +1,19 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:dark_purple_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:pastel_purple_dye",
+    "count": 3
+  }
+}

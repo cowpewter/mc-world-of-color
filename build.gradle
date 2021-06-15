@@ -18,8 +18,8 @@ compileJava   {
 }
 
 version = '1.16.5-0.0.0'
-group = 'com.cowpewter.worldofcolor' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'cowpewter-worldofcolor'
+group = 'com.cowpewter.dyetasticcolors' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'cowpewter-dyetasticcolors'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
 
@@ -60,7 +60,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             mods {
-                worldofcolor {
+                dyetasticcolors {
                     source sourceSets.main
                 }
             }
@@ -82,7 +82,7 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             mods {
-                worldofcolor {
+                dyetasticcolors {
                     source sourceSets.main
                 }
             }
@@ -104,10 +104,10 @@ minecraft {
             property 'forge.logging.console.level', 'debug'
 
             // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
-            args '--mod', 'worldofcolor', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'dyetasticcolors', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                worldofcolor {
+                dyetasticcolors {
                     source sourceSets.main
                 }
             }
@@ -148,7 +148,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-            "Specification-Title": "worldofcolor",
+            "Specification-Title": "dyetasticcolors",
             "Specification-Vendor": "cowpewter.com",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,

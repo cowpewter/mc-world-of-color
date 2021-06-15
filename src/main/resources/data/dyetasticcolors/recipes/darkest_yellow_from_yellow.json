@@ -1,0 +1,19 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:darkest_yellow_dye",
+    "count": 3
+  }
+}

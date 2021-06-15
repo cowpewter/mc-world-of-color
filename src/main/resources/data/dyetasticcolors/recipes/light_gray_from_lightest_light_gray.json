@@ -1,0 +1,19 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:lightest_light_gray_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light_gray_dye",
+    "count": 3
+  }
+}

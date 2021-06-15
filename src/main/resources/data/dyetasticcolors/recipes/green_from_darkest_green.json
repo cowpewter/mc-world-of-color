@@ -1,0 +1,23 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "dyetasticcolors:color_fader"
+    },
+    "2": {
+      "item": "dyetasticcolors:color_fader"
+    },
+    "4": {
+      "item": "dyetasticcolors:darkest_green_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:green_dye",
+    "count": 1
+  }
+}

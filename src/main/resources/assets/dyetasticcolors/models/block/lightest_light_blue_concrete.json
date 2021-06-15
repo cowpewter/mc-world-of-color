@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/lightest_light_blue_concrete",
+    "up": "dyetasticcolors:blocks/lightest_light_blue_concrete",
+    "north": "dyetasticcolors:blocks/lightest_light_blue_concrete",
+    "east": "dyetasticcolors:blocks/lightest_light_blue_concrete",
+    "south": "dyetasticcolors:blocks/lightest_light_blue_concrete",
+    "west": "dyetasticcolors:blocks/lightest_light_blue_concrete",
+    "particle": "dyetasticcolors:blocks/lightest_light_blue_concrete"
+  }
+}

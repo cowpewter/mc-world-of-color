@@ -1,0 +1,16 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:lightest_purple_dye"
+    },
+    {
+      "item": "minecraft:white_wool"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:lightest_purple_wool",
+    "count": 1
+  }
+}

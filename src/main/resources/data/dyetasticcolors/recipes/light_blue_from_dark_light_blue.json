@@ -1,0 +1,16 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:dark_light_blue_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:light_blue_dye",
+    "count": 2
+  }
+}

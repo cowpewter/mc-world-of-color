@@ -1,0 +1,16 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_intensifier"
+    },
+    {
+      "item": "dyetasticcolors:dark_cyan_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:darkest_cyan_dye",
+    "count": 2
+  }
+}

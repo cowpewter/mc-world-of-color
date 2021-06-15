@@ -1,0 +1,19 @@
+{
+  "group": "dyetasticcolors",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:color_fader"
+    },
+    {
+      "item": "dyetasticcolors:dark_brown_dye"
+    }
+  ],
+  "result": {
+    "item": "dyetasticcolors:pastel_brown_dye",
+    "count": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/dark_lime_wool",
+    "up": "dyetasticcolors:blocks/dark_lime_wool",
+    "north": "dyetasticcolors:blocks/dark_lime_wool",
+    "east": "dyetasticcolors:blocks/dark_lime_wool",
+    "south": "dyetasticcolors:blocks/dark_lime_wool",
+    "west": "dyetasticcolors:blocks/dark_lime_wool",
+    "particle": "dyetasticcolors:blocks/dark_lime_wool"
+  }
+}
