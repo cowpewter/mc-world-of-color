@@ -13,7 +13,7 @@ This results in a total of 76 different dye colors!
   * Stained Glass & Stained Glass Panes
 
 ### Caveats:
-* Beacon colors are limited, so Stained Glass will color beacons their base color, but not a different shade. IE, Light Red Stained Glass and Dark Red Stained Glass both simply color beacons Red
+* Beacon colors are limited, so Stained Glass will color beacons their base color, but not a different shade. IE, Light Red Stained Glass and Dark Red Stained Glass both simply color beacons Red.
 * Map colors are also limited, and so blocks dyed with the new colors will appear on maps as their base color. IE, Light Red Wool would render on a map as Red (So unfortunately, the new shades are not usable in Map Art)
 
 ### Up next:
@@ -72,6 +72,9 @@ Screenshots were taken at noon in-game, with no shaders.
 ## Wool
 ![Wool](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Wools.png)
 
+### Stained Glass and Stained Glass Panes
+![StainedGlass](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/StainedGlass.png)
+![StainedGlassPane](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/StainedGlassPanes.png)
 
 ## FAQ
 
