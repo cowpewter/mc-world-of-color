@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/lightest_red_terracotta",
+    "up": "dyetasticcolors:blocks/lightest_red_terracotta",
+    "north": "dyetasticcolors:blocks/lightest_red_terracotta",
+    "east": "dyetasticcolors:blocks/lightest_red_terracotta",
+    "south": "dyetasticcolors:blocks/lightest_red_terracotta",
+    "west": "dyetasticcolors:blocks/lightest_red_terracotta",
+    "particle": "dyetasticcolors:blocks/lightest_red_terracotta"
+  }
+}

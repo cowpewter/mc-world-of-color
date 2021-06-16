@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/dark_cyan_terracotta",
+    "up": "dyetasticcolors:blocks/dark_cyan_terracotta",
+    "north": "dyetasticcolors:blocks/dark_cyan_terracotta",
+    "east": "dyetasticcolors:blocks/dark_cyan_terracotta",
+    "south": "dyetasticcolors:blocks/dark_cyan_terracotta",
+    "west": "dyetasticcolors:blocks/dark_cyan_terracotta",
+    "particle": "dyetasticcolors:blocks/dark_cyan_terracotta"
+  }
+}

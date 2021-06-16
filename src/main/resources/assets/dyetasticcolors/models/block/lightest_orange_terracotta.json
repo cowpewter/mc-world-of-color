@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/lightest_orange_terracotta",
+    "up": "dyetasticcolors:blocks/lightest_orange_terracotta",
+    "north": "dyetasticcolors:blocks/lightest_orange_terracotta",
+    "east": "dyetasticcolors:blocks/lightest_orange_terracotta",
+    "south": "dyetasticcolors:blocks/lightest_orange_terracotta",
+    "west": "dyetasticcolors:blocks/lightest_orange_terracotta",
+    "particle": "dyetasticcolors:blocks/lightest_orange_terracotta"
+  }
+}

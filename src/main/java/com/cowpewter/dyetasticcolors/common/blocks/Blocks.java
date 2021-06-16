@@ -27,6 +27,9 @@ public class Blocks {
     // Stained Glass Panes
     blockList.addAll(StainedGlassPane.generateAllColors());
 
+    // Terracotta
+    blockList.addAll(Terracotta.generateAllColors());
+
     // TODO everything else
 
     return blockList.stream().toArray(INamedBlock[]::new);

@@ -111,40 +111,37 @@ public class Color {
     String vanillaColor = fullColorName.substring(index+1);
     String colorName = "COLOR_" + vanillaColor.toUpperCase();
 
-    // Ugh why won't something like this just work???
-    // return MaterialColor.valueOf(colorName);
-
     switch (colorName) {
       case "COLOR_RED":
-        return MaterialColor.COLOR_RED;
+        return isTerracotta ? MaterialColor.TERRACOTTA_RED : MaterialColor.COLOR_RED;
       case "COLOR_ORANGE":
-        return MaterialColor.COLOR_ORANGE;
+        return isTerracotta ? MaterialColor.TERRACOTTA_ORANGE : MaterialColor.COLOR_ORANGE;
       case "COLOR_YELLOW":
-        return MaterialColor.COLOR_YELLOW;
+        return isTerracotta ? MaterialColor.TERRACOTTA_YELLOW : MaterialColor.COLOR_YELLOW;
       case "COLOR_LIME":
-        return MaterialColor.COLOR_LIGHT_GREEN;
+        return isTerracotta ? MaterialColor.TERRACOTTA_LIGHT_GREEN : MaterialColor.COLOR_LIGHT_GREEN;
       case "COLOR_GREEN":
-        return MaterialColor.COLOR_GREEN;
+        return isTerracotta ? MaterialColor.TERRACOTTA_GREEN : MaterialColor.COLOR_GREEN;
       case "COLOR_LIGHT_BLUE":
-        return MaterialColor.COLOR_LIGHT_BLUE;
+        return isTerracotta ? MaterialColor.TERRACOTTA_LIGHT_BLUE : MaterialColor.COLOR_LIGHT_BLUE;
       case "COLOR_BLUE":
-        return MaterialColor.COLOR_BLUE;
+        return isTerracotta ? MaterialColor.TERRACOTTA_BLUE : MaterialColor.COLOR_BLUE;
       case "COLOR_PURPLE":
-        return MaterialColor.COLOR_PURPLE;
+        return isTerracotta ? MaterialColor.TERRACOTTA_PURPLE : MaterialColor.COLOR_PURPLE;
       case "COLOR_MAGENTA":
-        return MaterialColor.COLOR_MAGENTA;
+        return isTerracotta ? MaterialColor.TERRACOTTA_MAGENTA : MaterialColor.COLOR_MAGENTA;
       case "COLOR_PINK":
-        return MaterialColor.COLOR_PINK;
+        return isTerracotta ? MaterialColor.TERRACOTTA_PINK : MaterialColor.COLOR_PINK;
       case "COLOR_BROWN":
-        return MaterialColor.COLOR_BROWN;
+        return isTerracotta ? MaterialColor.TERRACOTTA_BROWN : MaterialColor.COLOR_BROWN;
       case "COLOR_LIGHT_GRAY":
-        return MaterialColor.COLOR_LIGHT_GRAY;
+        return isTerracotta ? MaterialColor.TERRACOTTA_LIGHT_GRAY : MaterialColor.COLOR_LIGHT_GRAY;
       case "COLOR_GRAY":
-        return MaterialColor.COLOR_GRAY;
+        return isTerracotta ? MaterialColor.TERRACOTTA_GRAY : MaterialColor.COLOR_GRAY;
       case "COLOR_WHITE":
-        return MaterialColor.SNOW;
+        return isTerracotta ? MaterialColor.TERRACOTTA_WHITE : MaterialColor.SNOW;
       case "COLOR_BLACK":
-        return MaterialColor.COLOR_BLACK;
+        return isTerracotta ? MaterialColor.TERRACOTTA_BLACK : MaterialColor.COLOR_BLACK;
       default:
         return null;
     }

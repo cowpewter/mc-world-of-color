@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dyetasticcolors:blocks/pastel_lime_terracotta",
+    "up": "dyetasticcolors:blocks/pastel_lime_terracotta",
+    "north": "dyetasticcolors:blocks/pastel_lime_terracotta",
+    "east": "dyetasticcolors:blocks/pastel_lime_terracotta",
+    "south": "dyetasticcolors:blocks/pastel_lime_terracotta",
+    "west": "dyetasticcolors:blocks/pastel_lime_terracotta",
+    "particle": "dyetasticcolors:blocks/pastel_lime_terracotta"
+  }
+}
