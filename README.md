@@ -4,6 +4,8 @@ A Minecraft mod that adds 60 new colors of dye. These goal of this mod is for al
 
 This results in a total of 76 different dye colors!
 
+# [Download DyeTastic Colors! from CurseForge](https://www.curseforge.com/minecraft/mc-mods/dyetastic-colors)
+
 ## Features (Current Version 0.0.1)
 
 ### Currently supported features:
@@ -25,6 +27,7 @@ This results in a total of 76 different dye colors!
 * Beds
 * Dye Sheep
 * Banners
+* Candles
 
 ### Planned for Version 2.0.0
 * Stains - will color wood planks with an overlay
@@ -33,7 +36,6 @@ This results in a total of 76 different dye colors!
 ### Future Features I'm Considering:
 * Stain/Paint wood fences/gates in addition to planks
 * Lantern colors
-* Candles
 * Glazed Terracotta - perhaps with brand new mosiac patterns, not just color adjustments
 * Concrete slabs/stairs in all 76 colors
 * Terracotta slabs/stairs in all 76 colors
