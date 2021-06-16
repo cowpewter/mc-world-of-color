@@ -50,12 +50,12 @@ Shoot me an email at (TBD) or open a Github Issue with your suggestions, request
 
 ## Screenshots
 ### New Dyes!
-14 of the 16 default Minecraft colors now come in Lightest, Pastel, Dark, and Darkest variants. The other two, white and black, come with two new variants each. 74 dyes in total (including vanilla dyes).
+14 of the 16 default Minecraft colors now come in Lightest, Pastel, Dark, and Darkest variants. The other two, white and black, come with two new variants each. 76 dyes in total (when you include vanilla dyes).
 ![Dyes](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Dyes1.png)
 ![Dyes](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Dyes2.png)
 
 ### Modify Dyes
-Make the new Color Intensifier and Color Fader dyes to darken or lighten your dye colors.
+Make the new Color Intensifier and Color Fader items to darken or lighten your dye colors.
 ![ColorIntensifierFromRGB](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorIntensifierFromRGB.png)
 ![ColorIntensifierFromCYM](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorIntensifierFromCYM.png)
 ![ColorFaderFromRGB](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorFaderFromRGB.png)
