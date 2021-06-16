@@ -66,7 +66,7 @@ public class StainedGlassPane extends PaneBlock implements INamedBlock {
   private static AbstractBlock.Properties createBlockProps(MaterialColor color) {
     return AbstractBlock.Properties
       .of(Material.GLASS, color)
-      // .noDrops()  // unsure if I need this, requires in-game testing, parent class may handle this
+      .noOcclusion()
       .strength(0.3F, 0.3F)
       .sound(SoundType.GLASS);
   }

@@ -62,16 +62,6 @@ public class StainedGlass extends AbstractGlassBlock implements INamedBlock, IBe
     return false;
   }
 
-  public static boolean shouldRenderFace(
-    BlockState state,
-    IBlockReader reader,
-    BlockPos pos,
-    Direction direction
-  ) {
-    return true; // TODO this needs some logic but testing
-  }
-
-
   public static ArrayList<INamedBlock> generateAllColors() {
     ArrayList<INamedBlock> blocks = new ArrayList<INamedBlock>();
 
@@ -97,6 +87,7 @@ public class StainedGlass extends AbstractGlassBlock implements INamedBlock, IBe
   private static AbstractBlock.Properties createBlockProps(MaterialColor color) {
     return AbstractBlock.Properties
       .of(Material.GLASS, color)
+      .noOcclusion()
       .strength(0.3F, 0.3F)
       .sound(SoundType.GLASS);
   }
