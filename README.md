@@ -49,7 +49,7 @@ This results in a total of 76 different dye colors!
 * Sign Text Color
 
 ### Suggestions Welcome!
-Shoot me an email at (TBD) or open a Github Issue with your suggestions, requests, or bugs.
+Shoot me an email at mcmods AT cowpewter DOT com, or open a Github Issue with your suggestions, requests, or bugs.
 
 
 ## Screenshots
