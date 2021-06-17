@@ -12,6 +12,7 @@ import java.util.ArrayList;
 public class Wool extends NamedBlock {
   public Wool(String name, MaterialColor color) {
     super(name, Wool.createBlockProps(color));
+    this.color = color;
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
   }
 

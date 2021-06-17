@@ -4,7 +4,6 @@ import com.cowpewter.dyetasticcolors.DyetasticColors;
 import com.cowpewter.dyetasticcolors.common.utils.Color;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.AbstractGlassBlock;
-import net.minecraft.block.BlockState;
 import net.minecraft.block.IBeaconBeamColorProvider;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.material.Material;
@@ -12,12 +11,7 @@ import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.DyeColor;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
-import net.minecraft.world.IBlockReader;
-import net.minecraft.util.Direction;
-import net.minecraft.util.math.BlockPos;
 import java.util.ArrayList;
-
-import net.minecraft.block.StainedGlassBlock;
 
 public class StainedGlass extends AbstractGlassBlock implements INamedBlock, IBeaconBeamColorProvider {
   protected Item.Properties itemProps = new Item.Properties();
@@ -47,8 +41,16 @@ public class StainedGlass extends AbstractGlassBlock implements INamedBlock, IBe
     return this.itemProps;
   }
 
-  public String getNameForBlockItem() {
+  public String getNameOfBlock() {
     return this.name;
+  }
+
+  public MaterialColor getMaterialColor() {
+    return this.color;
+  }
+
+  public void setMaterialColor(MaterialColor color) {
+    this.color = color;
   }
 
   // For IBeaconBeamColorProvider

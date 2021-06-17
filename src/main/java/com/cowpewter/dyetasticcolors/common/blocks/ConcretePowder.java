@@ -18,6 +18,7 @@ public class ConcretePowder extends ConcretePowderBlock implements INamedBlock {
   protected Item.Properties itemProps = new Item.Properties();
   protected Boolean hasItem = false;
   protected String name = "";
+  protected MaterialColor color = null;
 
   public ConcretePowder(String name, Block block, AbstractBlock.Properties props) {
     super(block, props);
@@ -40,8 +41,16 @@ public class ConcretePowder extends ConcretePowderBlock implements INamedBlock {
     return this.itemProps;
   }
 
-  public String getNameForBlockItem() {
+  public String getNameOfBlock() {
     return this.name;
+  }
+
+  public MaterialColor getMaterialColor() {
+    return this.color;
+  }
+
+  public void setMaterialColor(MaterialColor color) {
+    this.color = color;
   }
 
   public static ArrayList<INamedBlock> generateAllColors(ArrayList<INamedBlock> concreteBlocks) {
@@ -49,13 +58,15 @@ public class ConcretePowder extends ConcretePowderBlock implements INamedBlock {
 
     for (INamedBlock concrete : concreteBlocks) {
       Block block = (Block)concrete;
-      String color = Color.getColorNameFromRegistryName(concrete.getNameForBlockItem(), "concrete");
+      String color = Color.getColorNameFromRegistryName(concrete.getNameOfBlock(), "concrete");
       MaterialColor materialColor = Color.getMaterialForColor(color, false);
-      blocks.add(new ConcretePowder(
+      ConcretePowder newBlock = new ConcretePowder(
         color + "_concrete_powder",
         block,
         ConcretePowder.createBlockProps(materialColor)
-      ));
+      );
+      newBlock.setMaterialColor(materialColor);
+      blocks.add(newBlock);
     }
 
     return blocks;

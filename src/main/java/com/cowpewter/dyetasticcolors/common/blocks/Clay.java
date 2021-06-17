@@ -13,6 +13,7 @@ import java.util.ArrayList;
 public class Clay extends NamedBlock {
   public Clay(String name, MaterialColor color) {
     super(name, Clay.createBlockProps(color));
+    this.color = color;
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
   }
 

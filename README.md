@@ -98,4 +98,7 @@ Screenshots were taken at noon in-game, with no shaders.
 > What Minecraft versions is this mod available for?
 >> 1.16.5
 
+> Can I put this mod in my modpack?
+>> Absolutely! The more the better. Just throw me a credit or a link somewhere. 
+
 

@@ -3,6 +3,7 @@ package com.cowpewter.dyetasticcolors.common.blocks;
 import com.cowpewter.dyetasticcolors.DyetasticColors;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
+import net.minecraft.block.material.MaterialColor;
 import net.minecraft.item.Item;
 
 public class NamedBlock extends Block implements INamedBlock {
@@ -10,6 +11,7 @@ public class NamedBlock extends Block implements INamedBlock {
   protected Item.Properties itemProps = new Item.Properties();
   protected Boolean hasItem = false;
   protected String name = "";
+  protected MaterialColor color = null;
 
   NamedBlock(String name, AbstractBlock.Properties props) {
 		super(props);
@@ -31,7 +33,14 @@ public class NamedBlock extends Block implements INamedBlock {
     return this.itemProps;
   }
 
-  public String getNameForBlockItem() {
+  public String getNameOfBlock() {
     return this.name;
+  }
+  public MaterialColor getMaterialColor() {
+    return this.color;
+  }
+
+  public void setMaterialColor(MaterialColor color) {
+    this.color = color;
   }
 }
