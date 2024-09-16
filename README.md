@@ -27,22 +27,23 @@ This results in a total of 76 different dye colors!
 * Beds
 * Dye Sheep
 * Banners
-* Candles
+* Colored lantern glass
+* Pet Collars
+* Shulker Boxes
+* Fireworks
 
 ### Planned for Version 2.0.0
 * Stains - will color wood planks with an overlay
 * Paint - will color wood planks with a solid color
+* All the asstd things you could make with colored wood planks
+* Stain/Paint wood fences/gates in addition to planks
 
 ### Future Features I'm Considering:
-* Stain/Paint wood fences/gates in addition to planks
-* Lantern colors
+* Candles
 * Glazed Terracotta - perhaps with brand new mosiac patterns, not just color adjustments
 * Concrete slabs/stairs in all 76 colors
 * Terracotta slabs/stairs in all 76 colors
 * Sand/Sandstone (reg/cut/chiseled/slabs/stairs) in all 76 colors
-* Pet Collars
-* Fireworks
-* Shulker Boxes
 
 ### Not planning to support at this time:
 * Leather Armor/any dying that uses two dyes to create a mixed color outside of the default 16 Minecraft colors
@@ -66,7 +67,7 @@ Make the new Color Intensifier and Color Fader items to darken or lighten your d
 ![ColorFaderFromCYM](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/ColorFaderFromCYM.png)
 
 ## New Blocks
-The center row in each of these screenshots is vanilla blocks.
+The center row in each of these screenshots is made of vanilla blocks.
 Screenshots were taken at noon in-game, with no shaders.
 
 ### Concrete Powder and Concrete
@@ -80,8 +81,14 @@ Screenshots were taken at noon in-game, with no shaders.
 ![StainedGlass](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/StainedGlass.png)
 ![StainedGlassPane](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/StainedGlassPanes.png)
 
+## Clay
+![Clay](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Clays.png)
+
 ## Terracotta
 ![Terracotta](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Terracottas.png)
+
+## Bricks
+![Bricks](https://github.com/cowpewter/mc-dyetastic-colors/blob/main/docs/img/Bricks.png)
 
 ## FAQ
 
@@ -90,5 +97,8 @@ Screenshots were taken at noon in-game, with no shaders.
 
 > What Minecraft versions is this mod available for?
 >> 1.16.5
+
+> Can I put this mod in my modpack?
+>> Absolutely! The more the better. Just throw me a credit or a link somewhere. 
 
 

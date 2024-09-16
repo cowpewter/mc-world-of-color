@@ -13,6 +13,7 @@ import java.util.ArrayList;
 public class Concrete extends NamedBlock {
   public Concrete(String name, MaterialColor color) {
     super(name, Concrete.createBlockProps(color));
+    this.color = color;
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
   }
 

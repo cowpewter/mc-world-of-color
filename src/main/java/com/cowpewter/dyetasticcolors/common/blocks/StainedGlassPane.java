@@ -15,10 +15,12 @@ public class StainedGlassPane extends PaneBlock implements INamedBlock {
   protected Item.Properties itemProps = new Item.Properties();
   protected Boolean hasItem = false;
   protected String name = "";
+  protected MaterialColor color = null;
 
   public StainedGlassPane(String name, MaterialColor color) {
     super(StainedGlassPane.createBlockProps(color));
     this.name = name;
+    this.color = color;
     this.setRegistryName(DyetasticColors.ID, name);
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_DECORATIONS));
   }
@@ -37,8 +39,16 @@ public class StainedGlassPane extends PaneBlock implements INamedBlock {
     return this.itemProps;
   }
 
-  public String getNameForBlockItem() {
+  public String getNameOfBlock() {
     return this.name;
+  }
+
+  public MaterialColor getMaterialColor() {
+    return this.color;
+  }
+
+  public void setMaterialColor(MaterialColor color) {
+    this.color = color;
   }
 
   public static ArrayList<INamedBlock> generateAllColors() {

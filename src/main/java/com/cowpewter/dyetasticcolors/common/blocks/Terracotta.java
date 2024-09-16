@@ -13,6 +13,7 @@ import java.util.ArrayList;
 public class Terracotta extends NamedBlock {
   public Terracotta(String name, MaterialColor color) {
     super(name, Terracotta.createBlockProps(color));
+    this.color = color;
     this.setItemProperties(new Item.Properties().tab(ItemGroup.TAB_BUILDING_BLOCKS));
   }
 
